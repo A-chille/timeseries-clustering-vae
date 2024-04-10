@@ -1,0 +1,1800 @@
+Epoch: 0
+Batch 30, loss = 2559.7649, recon_loss = 2559.7478, kl_loss = 0.0172
+Batch 60, loss = 2755.4741, recon_loss = 2755.1504, kl_loss = 0.3238
+Batch 90, loss = 2453.4583, recon_loss = 2452.7710, kl_loss = 0.6874
+Batch 120, loss = 2766.1782, recon_loss = 2765.2456, kl_loss = 0.9326
+Batch 150, loss = 2205.7363, recon_loss = 2205.4526, kl_loss = 0.2838
+Batch 180, loss = 2727.8130, recon_loss = 2727.6130, kl_loss = 0.1999
+Batch 210, loss = 2324.7417, recon_loss = 2324.3650, kl_loss = 0.3767
+Batch 240, loss = 2583.5271, recon_loss = 2582.2017, kl_loss = 1.3254
+Batch 270, loss = 1674.9888, recon_loss = 1672.7074, kl_loss = 2.2814
+Batch 300, loss = 1918.7433, recon_loss = 1916.8008, kl_loss = 1.9425
+Batch 330, loss = 2105.6262, recon_loss = 2103.9255, kl_loss = 1.7008
+Batch 360, loss = 1709.6204, recon_loss = 1708.5942, kl_loss = 1.0261
+Batch 390, loss = 2041.7390, recon_loss = 2041.4777, kl_loss = 0.2614
+Batch 420, loss = 1777.0990, recon_loss = 1776.7162, kl_loss = 0.3828
+Batch 450, loss = 1400.0212, recon_loss = 1399.4121, kl_loss = 0.6092
+Batch 480, loss = 1755.0374, recon_loss = 1754.1345, kl_loss = 0.9029
+Average loss: 2219.6470
+Epoch: 1
+Batch 30, loss = 2057.1548, recon_loss = 2056.1719, kl_loss = 0.9829
+Batch 60, loss = 1960.5007, recon_loss = 1959.8052, kl_loss = 0.6955
+Batch 90, loss = 2007.5913, recon_loss = 2005.9280, kl_loss = 1.6633
+Batch 120, loss = 2077.0701, recon_loss = 2076.2524, kl_loss = 0.8176
+Batch 150, loss = 1597.6813, recon_loss = 1597.2461, kl_loss = 0.4352
+Batch 180, loss = 1489.4305, recon_loss = 1488.2080, kl_loss = 1.2225
+Batch 210, loss = 1907.3086, recon_loss = 1905.7410, kl_loss = 1.5677
+Batch 240, loss = 1993.3694, recon_loss = 1991.8276, kl_loss = 1.5417
+Batch 270, loss = 1999.6913, recon_loss = 1998.1956, kl_loss = 1.4957
+Batch 300, loss = 1626.8475, recon_loss = 1625.5254, kl_loss = 1.3221
+Batch 330, loss = 1668.5720, recon_loss = 1666.7965, kl_loss = 1.7755
+Batch 360, loss = 1696.7367, recon_loss = 1695.1370, kl_loss = 1.5997
+Batch 390, loss = 1903.1382, recon_loss = 1901.4667, kl_loss = 1.6715
+Batch 420, loss = 2088.1589, recon_loss = 2086.5854, kl_loss = 1.5734
+Batch 450, loss = 1746.9310, recon_loss = 1745.4657, kl_loss = 1.4654
+Batch 480, loss = 1461.6329, recon_loss = 1460.0679, kl_loss = 1.5651
+Average loss: 1799.5740
+Epoch: 2
+Batch 30, loss = 1596.2245, recon_loss = 1594.8728, kl_loss = 1.3517
+Batch 60, loss = 1581.2655, recon_loss = 1579.4341, kl_loss = 1.8315
+Batch 90, loss = 1645.4017, recon_loss = 1644.2606, kl_loss = 1.1411
+Batch 120, loss = 1664.9005, recon_loss = 1663.2844, kl_loss = 1.6161
+Batch 150, loss = 1747.1539, recon_loss = 1745.8538, kl_loss = 1.3001
+Batch 180, loss = 1717.0385, recon_loss = 1715.9092, kl_loss = 1.1293
+Batch 210, loss = 1662.3192, recon_loss = 1659.7111, kl_loss = 2.6082
+Batch 240, loss = 1563.9281, recon_loss = 1562.2407, kl_loss = 1.6874
+Batch 270, loss = 1345.1582, recon_loss = 1342.4873, kl_loss = 2.6709
+Batch 300, loss = 1838.7866, recon_loss = 1836.4679, kl_loss = 2.3187
+Batch 330, loss = 1717.6619, recon_loss = 1714.7842, kl_loss = 2.8777
+Batch 360, loss = 1506.3147, recon_loss = 1504.6333, kl_loss = 1.6814
+Batch 390, loss = 1339.9816, recon_loss = 1338.2671, kl_loss = 1.7144
+Batch 420, loss = 1530.7657, recon_loss = 1528.1636, kl_loss = 2.6022
+Batch 450, loss = 1843.6157, recon_loss = 1841.9697, kl_loss = 1.6460
+Batch 480, loss = 1624.6967, recon_loss = 1622.4954, kl_loss = 2.2013
+Average loss: 1665.4613
+Epoch: 3
+Batch 30, loss = 1839.7019, recon_loss = 1837.8185, kl_loss = 1.8834
+Batch 60, loss = 1645.1835, recon_loss = 1643.5276, kl_loss = 1.6559
+Batch 90, loss = 1611.4554, recon_loss = 1609.3091, kl_loss = 2.1463
+Batch 120, loss = 1153.2026, recon_loss = 1150.9258, kl_loss = 2.2769
+Batch 150, loss = 1933.9521, recon_loss = 1932.1702, kl_loss = 1.7820
+Batch 180, loss = 1816.5549, recon_loss = 1813.6006, kl_loss = 2.9543
+Batch 210, loss = 1620.4495, recon_loss = 1618.5251, kl_loss = 1.9243
+Batch 240, loss = 1546.3350, recon_loss = 1544.4421, kl_loss = 1.8928
+Batch 270, loss = 1776.1503, recon_loss = 1774.0044, kl_loss = 2.1459
+Batch 300, loss = 1612.1260, recon_loss = 1610.3445, kl_loss = 1.7815
+Batch 330, loss = 1527.6826, recon_loss = 1526.3032, kl_loss = 1.3794
+Batch 360, loss = 1560.5938, recon_loss = 1558.4111, kl_loss = 2.1826
+Batch 390, loss = 1512.7377, recon_loss = 1510.2875, kl_loss = 2.4502
+Batch 420, loss = 1548.5333, recon_loss = 1545.5592, kl_loss = 2.9742
+Batch 450, loss = 1561.9431, recon_loss = 1559.3597, kl_loss = 2.5834
+Batch 480, loss = 1591.0374, recon_loss = 1587.0154, kl_loss = 4.0220
+Average loss: 1580.8081
+Epoch: 4
+Batch 30, loss = 1544.8634, recon_loss = 1541.0192, kl_loss = 3.8443
+Batch 60, loss = 1660.1040, recon_loss = 1656.8422, kl_loss = 3.2618
+Batch 90, loss = 1800.2539, recon_loss = 1795.3798, kl_loss = 4.8742
+Batch 120, loss = 1781.2614, recon_loss = 1776.0803, kl_loss = 5.1810
+Batch 150, loss = 1484.8947, recon_loss = 1481.4463, kl_loss = 3.4483
+Batch 180, loss = 1714.8625, recon_loss = 1712.6022, kl_loss = 2.2603
+Batch 210, loss = 1862.5361, recon_loss = 1859.3147, kl_loss = 3.2214
+Batch 240, loss = 1868.0187, recon_loss = 1865.2671, kl_loss = 2.7516
+Batch 270, loss = 1707.5762, recon_loss = 1705.2344, kl_loss = 2.3417
+Batch 300, loss = 1794.3623, recon_loss = 1791.0786, kl_loss = 3.2837
+Batch 330, loss = 1643.9240, recon_loss = 1641.1240, kl_loss = 2.7999
+Batch 360, loss = 1677.4199, recon_loss = 1673.8049, kl_loss = 3.6149
+Batch 390, loss = 1489.9377, recon_loss = 1487.8413, kl_loss = 2.0964
+Batch 420, loss = 1709.9915, recon_loss = 1707.2700, kl_loss = 2.7215
+Batch 450, loss = 1704.7603, recon_loss = 1700.9187, kl_loss = 3.8416
+Batch 480, loss = 1541.2568, recon_loss = 1539.1240, kl_loss = 2.1329
+Average loss: 1623.4694
+Epoch: 5
+Batch 30, loss = 1508.2603, recon_loss = 1505.5668, kl_loss = 2.6935
+Batch 60, loss = 1645.8198, recon_loss = 1643.2882, kl_loss = 2.5317
+Batch 90, loss = 1810.9695, recon_loss = 1808.2263, kl_loss = 2.7432
+Batch 120, loss = 1696.0797, recon_loss = 1693.3804, kl_loss = 2.6993
+Batch 150, loss = 1544.7943, recon_loss = 1542.6333, kl_loss = 2.1610
+Batch 180, loss = 1933.3186, recon_loss = 1931.4814, kl_loss = 1.8372
+Batch 210, loss = 1466.0931, recon_loss = 1463.6138, kl_loss = 2.4793
+Batch 240, loss = 1748.5245, recon_loss = 1745.4893, kl_loss = 3.0353
+Batch 270, loss = 1228.8983, recon_loss = 1226.2769, kl_loss = 2.6215
+Batch 300, loss = 1371.8738, recon_loss = 1368.0430, kl_loss = 3.8309
+Batch 330, loss = 1538.3472, recon_loss = 1535.7197, kl_loss = 2.6274
+Batch 360, loss = 1337.8663, recon_loss = 1335.0452, kl_loss = 2.8212
+Batch 390, loss = 1560.0262, recon_loss = 1556.9446, kl_loss = 3.0817
+Batch 420, loss = 1481.0052, recon_loss = 1477.4371, kl_loss = 3.5681
+Batch 450, loss = 1342.1483, recon_loss = 1339.2913, kl_loss = 2.8571
+Batch 480, loss = 1836.4022, recon_loss = 1833.4758, kl_loss = 2.9263
+Average loss: 1560.0847
+Epoch: 6
+Batch 30, loss = 1581.9722, recon_loss = 1578.8369, kl_loss = 3.1353
+Batch 60, loss = 1736.1967, recon_loss = 1733.8525, kl_loss = 2.3441
+Batch 90, loss = 1526.7778, recon_loss = 1525.0249, kl_loss = 1.7529
+Batch 120, loss = 1536.4365, recon_loss = 1532.8143, kl_loss = 3.6222
+Batch 150, loss = 1484.5017, recon_loss = 1481.0715, kl_loss = 3.4302
+Batch 180, loss = 1297.1755, recon_loss = 1294.6472, kl_loss = 2.5284
+Batch 210, loss = 1640.6569, recon_loss = 1637.4836, kl_loss = 3.1733
+Batch 240, loss = 1455.4198, recon_loss = 1453.1628, kl_loss = 2.2570
+Batch 270, loss = 1519.8282, recon_loss = 1516.6370, kl_loss = 3.1913
+Batch 300, loss = 1507.5028, recon_loss = 1504.5911, kl_loss = 2.9118
+Batch 330, loss = 1615.6464, recon_loss = 1612.7927, kl_loss = 2.8536
+Batch 360, loss = 1431.7352, recon_loss = 1428.3882, kl_loss = 3.3470
+Batch 390, loss = 1341.9310, recon_loss = 1338.4490, kl_loss = 3.4821
+Batch 420, loss = 1472.2748, recon_loss = 1469.2046, kl_loss = 3.0702
+Batch 450, loss = 1530.1077, recon_loss = 1526.4980, kl_loss = 3.6097
+Batch 480, loss = 1669.2954, recon_loss = 1665.9232, kl_loss = 3.3722
+Average loss: 1549.6755
+Epoch: 7
+Batch 30, loss = 1409.2017, recon_loss = 1405.6764, kl_loss = 3.5253
+Batch 60, loss = 1464.3131, recon_loss = 1461.9054, kl_loss = 2.4077
+Batch 90, loss = 1601.9244, recon_loss = 1599.4563, kl_loss = 2.4681
+Batch 120, loss = 1551.9122, recon_loss = 1549.1677, kl_loss = 2.7445
+Batch 150, loss = 1206.5950, recon_loss = 1204.6941, kl_loss = 1.9008
+Batch 180, loss = 1571.6567, recon_loss = 1569.0045, kl_loss = 2.6522
+Batch 210, loss = 1688.3143, recon_loss = 1685.2543, kl_loss = 3.0601
+Batch 240, loss = 1564.5692, recon_loss = 1562.1265, kl_loss = 2.4427
+Batch 270, loss = 1359.2043, recon_loss = 1356.8809, kl_loss = 2.3235
+Batch 300, loss = 1305.1448, recon_loss = 1302.9412, kl_loss = 2.2036
+Batch 330, loss = 1478.3867, recon_loss = 1476.1615, kl_loss = 2.2252
+Batch 360, loss = 1344.8252, recon_loss = 1342.6792, kl_loss = 2.1461
+Batch 390, loss = 1630.2434, recon_loss = 1627.8737, kl_loss = 2.3697
+Batch 420, loss = 1400.0271, recon_loss = 1397.1611, kl_loss = 2.8659
+Batch 450, loss = 1319.9828, recon_loss = 1316.7134, kl_loss = 3.2694
+Batch 480, loss = 1335.5660, recon_loss = 1332.7969, kl_loss = 2.7691
+Average loss: 1489.6682
+Epoch: 8
+Batch 30, loss = 1505.3160, recon_loss = 1502.7371, kl_loss = 2.5790
+Batch 60, loss = 1316.7186, recon_loss = 1314.5526, kl_loss = 2.1660
+Batch 90, loss = 1468.5332, recon_loss = 1466.6691, kl_loss = 1.8641
+Batch 120, loss = 1271.7566, recon_loss = 1269.8740, kl_loss = 1.8825
+Batch 150, loss = 1568.6368, recon_loss = 1566.2150, kl_loss = 2.4219
+Batch 180, loss = 1424.3486, recon_loss = 1422.3105, kl_loss = 2.0380
+Batch 210, loss = 1514.8547, recon_loss = 1512.8860, kl_loss = 1.9687
+Batch 240, loss = 1498.5460, recon_loss = 1496.3230, kl_loss = 2.2231
+Batch 270, loss = 1178.3511, recon_loss = 1176.0382, kl_loss = 2.3129
+Batch 300, loss = 1349.6208, recon_loss = 1347.1860, kl_loss = 2.4349
+Batch 330, loss = 1600.3396, recon_loss = 1597.8087, kl_loss = 2.5309
+Batch 360, loss = 1598.0109, recon_loss = 1595.7831, kl_loss = 2.2277
+Batch 390, loss = 1328.3796, recon_loss = 1325.7616, kl_loss = 2.6180
+Batch 420, loss = 1357.9105, recon_loss = 1355.4642, kl_loss = 2.4463
+Batch 450, loss = 1577.6893, recon_loss = 1574.8350, kl_loss = 2.8544
+Batch 480, loss = 1526.7767, recon_loss = 1523.8002, kl_loss = 2.9766
+Average loss: 1423.6176
+Epoch: 9
+Batch 30, loss = 1515.5682, recon_loss = 1512.9042, kl_loss = 2.6641
+Batch 60, loss = 1294.5642, recon_loss = 1291.7441, kl_loss = 2.8200
+Batch 90, loss = 1177.2648, recon_loss = 1175.2148, kl_loss = 2.0499
+Batch 120, loss = 1505.0684, recon_loss = 1502.8269, kl_loss = 2.2415
+Batch 150, loss = 1709.7985, recon_loss = 1707.8179, kl_loss = 1.9806
+Batch 180, loss = 1243.8629, recon_loss = 1241.7366, kl_loss = 2.1264
+Batch 210, loss = 1618.7914, recon_loss = 1616.2495, kl_loss = 2.5418
+Batch 240, loss = 1356.2810, recon_loss = 1354.0757, kl_loss = 2.2053
+Batch 270, loss = 1129.9398, recon_loss = 1127.3792, kl_loss = 2.5607
+Batch 300, loss = 1186.5503, recon_loss = 1184.0455, kl_loss = 2.5047
+Batch 330, loss = 1250.7516, recon_loss = 1248.2897, kl_loss = 2.4620
+Batch 360, loss = 1284.6243, recon_loss = 1282.3330, kl_loss = 2.2913
+Batch 390, loss = 1578.8441, recon_loss = 1575.8401, kl_loss = 3.0041
+Batch 420, loss = 1464.6860, recon_loss = 1461.8041, kl_loss = 2.8819
+Batch 450, loss = 1463.5197, recon_loss = 1460.8494, kl_loss = 2.6702
+Batch 480, loss = 1421.4268, recon_loss = 1418.0035, kl_loss = 3.4233
+Average loss: 1382.8200
+Epoch: 10
+Batch 30, loss = 1104.0359, recon_loss = 1101.1835, kl_loss = 2.8525
+Batch 60, loss = 1449.8350, recon_loss = 1447.3894, kl_loss = 2.4456
+Batch 90, loss = 1395.7098, recon_loss = 1393.2832, kl_loss = 2.4266
+Batch 120, loss = 1225.6609, recon_loss = 1223.2495, kl_loss = 2.4114
+Batch 150, loss = 1320.0599, recon_loss = 1317.5881, kl_loss = 2.4718
+Batch 180, loss = 1294.1217, recon_loss = 1291.6523, kl_loss = 2.4694
+Batch 210, loss = 1275.9769, recon_loss = 1273.6321, kl_loss = 2.3448
+Batch 240, loss = 1495.0458, recon_loss = 1492.3722, kl_loss = 2.6736
+Batch 270, loss = 1438.0544, recon_loss = 1435.7660, kl_loss = 2.2884
+Batch 300, loss = 957.0421, recon_loss = 954.7153, kl_loss = 2.3268
+Batch 330, loss = 1178.3352, recon_loss = 1175.8738, kl_loss = 2.4615
+Batch 360, loss = 1569.6602, recon_loss = 1567.1355, kl_loss = 2.5247
+Batch 390, loss = 1706.1715, recon_loss = 1703.5660, kl_loss = 2.6055
+Batch 420, loss = 1590.9562, recon_loss = 1588.5676, kl_loss = 2.3885
+Batch 450, loss = 1646.2083, recon_loss = 1643.7240, kl_loss = 2.4842
+Batch 480, loss = 1591.0867, recon_loss = 1588.7207, kl_loss = 2.3660
+Average loss: 1402.2822
+Epoch: 11
+Batch 30, loss = 1323.6984, recon_loss = 1321.0764, kl_loss = 2.6219
+Batch 60, loss = 1648.9624, recon_loss = 1646.2632, kl_loss = 2.6992
+Batch 90, loss = 1534.2543, recon_loss = 1531.8761, kl_loss = 2.3782
+Batch 120, loss = 1541.6733, recon_loss = 1539.0649, kl_loss = 2.6084
+Batch 150, loss = 1336.1541, recon_loss = 1333.4556, kl_loss = 2.6985
+Batch 180, loss = 1209.3879, recon_loss = 1207.1270, kl_loss = 2.2609
+Batch 210, loss = 1528.4905, recon_loss = 1525.7761, kl_loss = 2.7143
+Batch 240, loss = 1331.1586, recon_loss = 1328.7330, kl_loss = 2.4256
+Batch 270, loss = 1537.7311, recon_loss = 1535.1442, kl_loss = 2.5869
+Batch 300, loss = 1291.7117, recon_loss = 1289.4714, kl_loss = 2.2403
+Batch 330, loss = 973.7411, recon_loss = 971.0535, kl_loss = 2.6877
+Batch 360, loss = 1566.6357, recon_loss = 1563.9216, kl_loss = 2.7141
+Batch 390, loss = 1385.3342, recon_loss = 1382.8364, kl_loss = 2.4978
+Batch 420, loss = 1198.0562, recon_loss = 1195.0286, kl_loss = 3.0276
+Batch 450, loss = 1195.2211, recon_loss = 1192.3242, kl_loss = 2.8968
+Batch 480, loss = 1477.0405, recon_loss = 1474.0146, kl_loss = 3.0258
+Average loss: 1402.4202
+Epoch: 12
+Batch 30, loss = 1243.8817, recon_loss = 1241.2800, kl_loss = 2.6016
+Batch 60, loss = 1403.0005, recon_loss = 1400.3320, kl_loss = 2.6685
+Batch 90, loss = 1297.8677, recon_loss = 1295.3271, kl_loss = 2.5406
+Batch 120, loss = 1510.8214, recon_loss = 1507.9512, kl_loss = 2.8702
+Batch 150, loss = 1389.4626, recon_loss = 1386.9675, kl_loss = 2.4952
+Batch 180, loss = 1251.0747, recon_loss = 1248.4287, kl_loss = 2.6460
+Batch 210, loss = 1385.3918, recon_loss = 1382.7688, kl_loss = 2.6230
+Batch 240, loss = 1398.0819, recon_loss = 1395.1035, kl_loss = 2.9784
+Batch 270, loss = 1261.3151, recon_loss = 1258.5073, kl_loss = 2.8077
+Batch 300, loss = 1602.2726, recon_loss = 1599.7461, kl_loss = 2.5265
+Batch 330, loss = 1120.2710, recon_loss = 1117.1941, kl_loss = 3.0769
+Batch 360, loss = 1020.2969, recon_loss = 1017.5507, kl_loss = 2.7462
+Batch 390, loss = 1274.3279, recon_loss = 1271.7184, kl_loss = 2.6095
+Batch 420, loss = 1522.7554, recon_loss = 1519.7021, kl_loss = 3.0532
+Batch 450, loss = 1576.9696, recon_loss = 1574.0046, kl_loss = 2.9650
+Batch 480, loss = 1311.4197, recon_loss = 1308.8208, kl_loss = 2.5989
+Average loss: 1354.5049
+Epoch: 13
+Batch 30, loss = 1397.2908, recon_loss = 1394.6248, kl_loss = 2.6660
+Batch 60, loss = 1061.7888, recon_loss = 1059.1866, kl_loss = 2.6022
+Batch 90, loss = 1411.1553, recon_loss = 1407.9939, kl_loss = 3.1614
+Batch 120, loss = 1376.2590, recon_loss = 1373.3021, kl_loss = 2.9569
+Batch 150, loss = 1309.0509, recon_loss = 1306.1091, kl_loss = 2.9417
+Batch 180, loss = 1579.2115, recon_loss = 1576.5547, kl_loss = 2.6569
+Batch 210, loss = 1283.9861, recon_loss = 1281.0321, kl_loss = 2.9540
+Batch 240, loss = 1600.5599, recon_loss = 1597.7495, kl_loss = 2.8105
+Batch 270, loss = 1440.0930, recon_loss = 1437.0663, kl_loss = 3.0268
+Batch 300, loss = 1271.3929, recon_loss = 1268.2795, kl_loss = 3.1134
+Batch 330, loss = 1405.5388, recon_loss = 1402.7356, kl_loss = 2.8033
+Batch 360, loss = 1326.7542, recon_loss = 1323.5070, kl_loss = 3.2472
+Batch 390, loss = 1228.4310, recon_loss = 1225.6101, kl_loss = 2.8209
+Batch 420, loss = 1480.2092, recon_loss = 1477.0024, kl_loss = 3.2068
+Batch 450, loss = 1167.2484, recon_loss = 1164.2791, kl_loss = 2.9694
+Batch 480, loss = 1405.9835, recon_loss = 1402.8269, kl_loss = 3.1566
+Average loss: 1382.3187
+Epoch: 14
+Batch 30, loss = 1231.7230, recon_loss = 1228.7642, kl_loss = 2.9589
+Batch 60, loss = 1126.2838, recon_loss = 1123.1626, kl_loss = 3.1212
+Batch 90, loss = 1530.8834, recon_loss = 1528.0320, kl_loss = 2.8515
+Batch 120, loss = 1265.6149, recon_loss = 1262.6748, kl_loss = 2.9400
+Batch 150, loss = 1365.5559, recon_loss = 1362.7516, kl_loss = 2.8044
+Batch 180, loss = 1362.3312, recon_loss = 1359.2029, kl_loss = 3.1282
+Batch 210, loss = 1421.8699, recon_loss = 1418.6350, kl_loss = 3.2348
+Batch 240, loss = 1204.3396, recon_loss = 1200.9585, kl_loss = 3.3810
+Batch 270, loss = 1279.5575, recon_loss = 1276.1576, kl_loss = 3.3999
+Batch 300, loss = 1198.7931, recon_loss = 1195.2266, kl_loss = 3.5665
+Batch 330, loss = 1144.5890, recon_loss = 1141.0276, kl_loss = 3.5614
+Batch 360, loss = 1371.6880, recon_loss = 1367.9236, kl_loss = 3.7643
+Batch 390, loss = 1482.5941, recon_loss = 1478.9126, kl_loss = 3.6815
+Batch 420, loss = 1308.9677, recon_loss = 1305.2053, kl_loss = 3.7623
+Batch 450, loss = 1349.0782, recon_loss = 1345.1733, kl_loss = 3.9049
+Batch 480, loss = 1437.4470, recon_loss = 1433.4705, kl_loss = 3.9765
+Average loss: 1317.7412
+Epoch: 15
+Batch 30, loss = 1252.0767, recon_loss = 1248.4513, kl_loss = 3.6254
+Batch 60, loss = 1504.2274, recon_loss = 1500.2014, kl_loss = 4.0260
+Batch 90, loss = 1351.1693, recon_loss = 1347.5635, kl_loss = 3.6058
+Batch 120, loss = 1153.5475, recon_loss = 1149.9781, kl_loss = 3.5694
+Batch 150, loss = 1453.0510, recon_loss = 1449.5715, kl_loss = 3.4795
+Batch 180, loss = 1670.0214, recon_loss = 1666.1973, kl_loss = 3.8241
+Batch 210, loss = 1163.6746, recon_loss = 1159.9932, kl_loss = 3.6814
+Batch 240, loss = 1213.8774, recon_loss = 1210.4316, kl_loss = 3.4458
+Batch 270, loss = 1234.1603, recon_loss = 1230.4534, kl_loss = 3.7069
+Batch 300, loss = 1232.7079, recon_loss = 1229.2500, kl_loss = 3.4579
+Batch 330, loss = 1163.6383, recon_loss = 1160.2012, kl_loss = 3.4372
+Batch 360, loss = 1097.0135, recon_loss = 1093.5071, kl_loss = 3.5065
+Batch 390, loss = 1104.1682, recon_loss = 1100.5536, kl_loss = 3.6147
+Batch 420, loss = 1358.7098, recon_loss = 1355.0162, kl_loss = 3.6937
+Batch 450, loss = 1156.0254, recon_loss = 1152.8492, kl_loss = 3.1761
+Batch 480, loss = 1226.8701, recon_loss = 1222.9275, kl_loss = 3.9426
+Average loss: 1242.1543
+Epoch: 16
+Batch 30, loss = 1164.1921, recon_loss = 1159.9592, kl_loss = 4.2329
+Batch 60, loss = 1285.2003, recon_loss = 1281.1873, kl_loss = 4.0130
+Batch 90, loss = 1318.2122, recon_loss = 1314.2181, kl_loss = 3.9940
+Batch 120, loss = 1382.9963, recon_loss = 1379.1116, kl_loss = 3.8848
+Batch 150, loss = 1275.2603, recon_loss = 1271.0780, kl_loss = 4.1822
+Batch 180, loss = 1275.1121, recon_loss = 1271.2866, kl_loss = 3.8254
+Batch 210, loss = 1047.8821, recon_loss = 1043.6598, kl_loss = 4.2223
+Batch 240, loss = 1253.2700, recon_loss = 1249.1073, kl_loss = 4.1628
+Batch 270, loss = 1182.2825, recon_loss = 1178.0029, kl_loss = 4.2796
+Batch 300, loss = 1164.6235, recon_loss = 1160.4102, kl_loss = 4.2133
+Batch 330, loss = 1164.7679, recon_loss = 1160.7385, kl_loss = 4.0294
+Batch 360, loss = 1285.3541, recon_loss = 1281.3428, kl_loss = 4.0113
+Batch 390, loss = 1130.6178, recon_loss = 1126.4076, kl_loss = 4.2102
+Batch 420, loss = 1261.4325, recon_loss = 1257.1938, kl_loss = 4.2386
+Batch 450, loss = 1353.0453, recon_loss = 1348.9055, kl_loss = 4.1398
+Batch 480, loss = 1152.1179, recon_loss = 1147.9694, kl_loss = 4.1485
+Average loss: 1199.3533
+Epoch: 17
+Batch 30, loss = 972.1854, recon_loss = 968.0656, kl_loss = 4.1198
+Batch 60, loss = 1216.8043, recon_loss = 1212.5791, kl_loss = 4.2252
+Batch 90, loss = 1041.7627, recon_loss = 1037.5186, kl_loss = 4.2442
+Batch 120, loss = 1260.4377, recon_loss = 1256.3658, kl_loss = 4.0719
+Batch 150, loss = 1048.8936, recon_loss = 1044.6816, kl_loss = 4.2119
+Batch 180, loss = 1287.7552, recon_loss = 1283.5499, kl_loss = 4.2054
+Batch 210, loss = 1154.6073, recon_loss = 1150.3767, kl_loss = 4.2306
+Batch 240, loss = 1320.3872, recon_loss = 1316.2363, kl_loss = 4.1508
+Batch 270, loss = 1016.1660, recon_loss = 1011.9586, kl_loss = 4.2074
+Batch 300, loss = 891.5887, recon_loss = 887.2831, kl_loss = 4.3056
+Batch 330, loss = 1171.3475, recon_loss = 1167.1753, kl_loss = 4.1722
+Batch 360, loss = 1191.2721, recon_loss = 1187.3116, kl_loss = 3.9605
+Batch 390, loss = 1111.2374, recon_loss = 1107.3101, kl_loss = 3.9274
+Batch 420, loss = 968.1767, recon_loss = 963.8771, kl_loss = 4.2996
+Batch 450, loss = 1028.7451, recon_loss = 1024.3929, kl_loss = 4.3521
+Batch 480, loss = 1233.8096, recon_loss = 1229.6332, kl_loss = 4.1764
+Average loss: 1161.6711
+Epoch: 18
+Batch 30, loss = 1170.2850, recon_loss = 1166.0847, kl_loss = 4.2004
+Batch 60, loss = 1140.3037, recon_loss = 1136.0537, kl_loss = 4.2500
+Batch 90, loss = 803.9863, recon_loss = 799.6027, kl_loss = 4.3836
+Batch 120, loss = 1226.7263, recon_loss = 1222.4688, kl_loss = 4.2576
+Batch 150, loss = 1119.7454, recon_loss = 1115.3550, kl_loss = 4.3904
+Batch 180, loss = 1217.4167, recon_loss = 1213.0935, kl_loss = 4.3232
+Batch 210, loss = 1106.1042, recon_loss = 1101.6359, kl_loss = 4.4684
+Batch 240, loss = 1032.3719, recon_loss = 1028.0067, kl_loss = 4.3652
+Batch 270, loss = 1180.3807, recon_loss = 1176.0654, kl_loss = 4.3153
+Batch 300, loss = 1056.0980, recon_loss = 1051.7681, kl_loss = 4.3300
+Batch 330, loss = 1125.3562, recon_loss = 1120.8484, kl_loss = 4.5078
+Batch 360, loss = 1200.4518, recon_loss = 1196.0068, kl_loss = 4.4449
+Batch 390, loss = 1320.9177, recon_loss = 1316.7145, kl_loss = 4.2032
+Batch 420, loss = 1069.2975, recon_loss = 1064.6859, kl_loss = 4.6116
+Batch 450, loss = 1179.7882, recon_loss = 1175.5344, kl_loss = 4.2537
+Batch 480, loss = 1131.4822, recon_loss = 1127.0046, kl_loss = 4.4776
+Average loss: 1136.7877
+Epoch: 19
+Batch 30, loss = 1253.2223, recon_loss = 1249.1567, kl_loss = 4.0656
+Batch 60, loss = 1080.3202, recon_loss = 1075.8387, kl_loss = 4.4814
+Batch 90, loss = 1257.4552, recon_loss = 1252.9902, kl_loss = 4.4649
+Batch 120, loss = 1075.3745, recon_loss = 1071.1350, kl_loss = 4.2396
+Batch 150, loss = 1245.9353, recon_loss = 1241.6846, kl_loss = 4.2507
+Batch 180, loss = 1261.4235, recon_loss = 1257.2017, kl_loss = 4.2218
+Batch 210, loss = 1117.7424, recon_loss = 1113.4993, kl_loss = 4.2432
+Batch 240, loss = 825.9023, recon_loss = 821.2567, kl_loss = 4.6455
+Batch 270, loss = 1128.4224, recon_loss = 1123.9778, kl_loss = 4.4445
+Batch 300, loss = 1094.0509, recon_loss = 1089.5967, kl_loss = 4.4542
+Batch 330, loss = 1033.1288, recon_loss = 1028.6085, kl_loss = 4.5202
+Batch 360, loss = 956.6250, recon_loss = 952.0760, kl_loss = 4.5489
+Batch 390, loss = 1171.0317, recon_loss = 1166.7090, kl_loss = 4.3228
+Batch 420, loss = 1036.4330, recon_loss = 1032.2290, kl_loss = 4.2040
+Batch 450, loss = 1103.1510, recon_loss = 1098.7015, kl_loss = 4.4495
+Batch 480, loss = 996.6756, recon_loss = 992.3044, kl_loss = 4.3712
+Average loss: 1113.9066
+Epoch: 20
+Batch 30, loss = 1080.4421, recon_loss = 1075.8849, kl_loss = 4.5573
+Batch 60, loss = 1109.1223, recon_loss = 1104.7971, kl_loss = 4.3252
+Batch 90, loss = 918.2925, recon_loss = 913.7626, kl_loss = 4.5299
+Batch 120, loss = 1142.2516, recon_loss = 1137.7664, kl_loss = 4.4852
+Batch 150, loss = 1164.3909, recon_loss = 1160.3027, kl_loss = 4.0882
+Batch 180, loss = 1161.9720, recon_loss = 1157.7695, kl_loss = 4.2025
+Batch 210, loss = 1202.9819, recon_loss = 1198.5542, kl_loss = 4.4278
+Batch 240, loss = 1246.9633, recon_loss = 1242.7229, kl_loss = 4.2404
+Batch 270, loss = 1172.8989, recon_loss = 1168.6079, kl_loss = 4.2910
+Batch 300, loss = 983.3334, recon_loss = 979.1836, kl_loss = 4.1498
+Batch 330, loss = 1209.0731, recon_loss = 1204.5518, kl_loss = 4.5214
+Batch 360, loss = 1156.1517, recon_loss = 1151.4908, kl_loss = 4.6609
+Batch 390, loss = 1354.5115, recon_loss = 1350.2131, kl_loss = 4.2984
+Batch 420, loss = 1176.9894, recon_loss = 1172.7827, kl_loss = 4.2067
+Batch 450, loss = 1056.3032, recon_loss = 1052.2850, kl_loss = 4.0182
+Batch 480, loss = 984.3213, recon_loss = 980.0281, kl_loss = 4.2932
+Average loss: 1100.9320
+Epoch: 21
+Batch 30, loss = 1039.5089, recon_loss = 1035.1753, kl_loss = 4.3336
+Batch 60, loss = 1253.5164, recon_loss = 1249.1929, kl_loss = 4.3234
+Batch 90, loss = 1188.8213, recon_loss = 1184.4410, kl_loss = 4.3803
+Batch 120, loss = 849.8369, recon_loss = 845.6265, kl_loss = 4.2104
+Batch 150, loss = 1257.5122, recon_loss = 1253.1610, kl_loss = 4.3512
+Batch 180, loss = 963.9017, recon_loss = 959.4646, kl_loss = 4.4371
+Batch 210, loss = 1074.6373, recon_loss = 1070.3453, kl_loss = 4.2920
+Batch 240, loss = 997.5432, recon_loss = 993.1327, kl_loss = 4.4105
+Batch 270, loss = 1246.4215, recon_loss = 1242.2280, kl_loss = 4.1935
+Batch 300, loss = 1025.0536, recon_loss = 1020.7033, kl_loss = 4.3502
+Batch 330, loss = 1043.6794, recon_loss = 1039.2042, kl_loss = 4.4752
+Batch 360, loss = 1040.1132, recon_loss = 1035.5486, kl_loss = 4.5645
+Batch 390, loss = 988.4866, recon_loss = 984.1798, kl_loss = 4.3067
+Batch 420, loss = 1218.1144, recon_loss = 1213.7007, kl_loss = 4.4137
+Batch 450, loss = 987.2240, recon_loss = 982.6299, kl_loss = 4.5941
+Batch 480, loss = 897.7884, recon_loss = 893.3735, kl_loss = 4.4149
+Average loss: 1074.8999
+Epoch: 22
+Batch 30, loss = 979.6918, recon_loss = 975.2285, kl_loss = 4.4633
+Batch 60, loss = 904.8334, recon_loss = 900.5004, kl_loss = 4.3330
+Batch 90, loss = 1060.7010, recon_loss = 1056.0205, kl_loss = 4.6806
+Batch 120, loss = 764.0547, recon_loss = 759.6482, kl_loss = 4.4065
+Batch 150, loss = 1135.5991, recon_loss = 1131.1187, kl_loss = 4.4804
+Batch 180, loss = 1119.5887, recon_loss = 1115.1023, kl_loss = 4.4865
+Batch 210, loss = 1035.5820, recon_loss = 1031.0164, kl_loss = 4.5656
+Batch 240, loss = 1080.4858, recon_loss = 1075.9866, kl_loss = 4.4993
+Batch 270, loss = 1073.6403, recon_loss = 1069.1986, kl_loss = 4.4416
+Batch 300, loss = 1012.4044, recon_loss = 1008.1152, kl_loss = 4.2892
+Batch 330, loss = 1285.1099, recon_loss = 1280.7725, kl_loss = 4.3374
+Batch 360, loss = 1030.3812, recon_loss = 1026.0874, kl_loss = 4.2938
+Batch 390, loss = 925.9248, recon_loss = 921.2352, kl_loss = 4.6896
+Batch 420, loss = 1237.3568, recon_loss = 1232.9285, kl_loss = 4.4283
+Batch 450, loss = 1061.3446, recon_loss = 1056.8159, kl_loss = 4.5287
+Batch 480, loss = 927.5177, recon_loss = 922.9493, kl_loss = 4.5683
+Average loss: 1068.7050
+Epoch: 23
+Batch 30, loss = 1132.7777, recon_loss = 1128.3130, kl_loss = 4.4647
+Batch 60, loss = 908.4812, recon_loss = 904.0880, kl_loss = 4.3932
+Batch 90, loss = 1170.8870, recon_loss = 1166.2959, kl_loss = 4.5910
+Batch 120, loss = 1092.7990, recon_loss = 1088.5662, kl_loss = 4.2328
+Batch 150, loss = 1091.8359, recon_loss = 1087.3142, kl_loss = 4.5217
+Batch 180, loss = 1202.5054, recon_loss = 1197.9709, kl_loss = 4.5344
+Batch 210, loss = 1105.3080, recon_loss = 1100.8665, kl_loss = 4.4415
+Batch 240, loss = 1282.2576, recon_loss = 1277.9563, kl_loss = 4.3013
+Batch 270, loss = 964.6777, recon_loss = 959.9460, kl_loss = 4.7317
+Batch 300, loss = 1050.6664, recon_loss = 1046.1411, kl_loss = 4.5253
+Batch 330, loss = 1172.4221, recon_loss = 1167.9312, kl_loss = 4.4909
+Batch 360, loss = 1112.8961, recon_loss = 1108.4358, kl_loss = 4.4604
+Batch 390, loss = 977.5034, recon_loss = 972.9674, kl_loss = 4.5360
+Batch 420, loss = 1001.7607, recon_loss = 997.1684, kl_loss = 4.5923
+Batch 450, loss = 998.0015, recon_loss = 993.4086, kl_loss = 4.5929
+Batch 480, loss = 724.1760, recon_loss = 719.7118, kl_loss = 4.4642
+Average loss: 1055.3934
+Epoch: 24
+Batch 30, loss = 1095.2719, recon_loss = 1090.7195, kl_loss = 4.5523
+Batch 60, loss = 1318.6580, recon_loss = 1314.2694, kl_loss = 4.3885
+Batch 90, loss = 1064.8824, recon_loss = 1060.6982, kl_loss = 4.1842
+Batch 120, loss = 1133.6924, recon_loss = 1129.2393, kl_loss = 4.4532
+Batch 150, loss = 1126.3209, recon_loss = 1121.8334, kl_loss = 4.4875
+Batch 180, loss = 716.3252, recon_loss = 712.0745, kl_loss = 4.2507
+Batch 210, loss = 968.3387, recon_loss = 963.8397, kl_loss = 4.4990
+Batch 240, loss = 863.5780, recon_loss = 859.1002, kl_loss = 4.4778
+Batch 270, loss = 981.4918, recon_loss = 977.1329, kl_loss = 4.3589
+Batch 300, loss = 1205.8268, recon_loss = 1201.3756, kl_loss = 4.4511
+Batch 330, loss = 985.7314, recon_loss = 981.5424, kl_loss = 4.1890
+Batch 360, loss = 988.4169, recon_loss = 983.8580, kl_loss = 4.5589
+Batch 390, loss = 1212.4222, recon_loss = 1207.9695, kl_loss = 4.4528
+Batch 420, loss = 913.0179, recon_loss = 908.7751, kl_loss = 4.2427
+Batch 450, loss = 1101.0201, recon_loss = 1096.6105, kl_loss = 4.4097
+Batch 480, loss = 1104.1835, recon_loss = 1099.7585, kl_loss = 4.4249
+Average loss: 1046.7211
+Epoch: 25
+Batch 30, loss = 1148.3560, recon_loss = 1143.8982, kl_loss = 4.4577
+Batch 60, loss = 1069.9601, recon_loss = 1065.4866, kl_loss = 4.4735
+Batch 90, loss = 949.8995, recon_loss = 945.5570, kl_loss = 4.3426
+Batch 120, loss = 1012.4779, recon_loss = 1008.0809, kl_loss = 4.3970
+Batch 150, loss = 897.7775, recon_loss = 893.2986, kl_loss = 4.4788
+Batch 180, loss = 1064.7749, recon_loss = 1060.4860, kl_loss = 4.2889
+Batch 210, loss = 1012.7681, recon_loss = 1008.2718, kl_loss = 4.4963
+Batch 240, loss = 1382.8123, recon_loss = 1378.2104, kl_loss = 4.6018
+Batch 270, loss = 1062.6772, recon_loss = 1058.2355, kl_loss = 4.4418
+Batch 300, loss = 1102.8282, recon_loss = 1098.3660, kl_loss = 4.4623
+Batch 330, loss = 976.1520, recon_loss = 971.7751, kl_loss = 4.3769
+Batch 360, loss = 1127.4641, recon_loss = 1122.9836, kl_loss = 4.4805
+Batch 390, loss = 1035.6952, recon_loss = 1031.3403, kl_loss = 4.3548
+Batch 420, loss = 973.9713, recon_loss = 969.5883, kl_loss = 4.3830
+Batch 450, loss = 1100.9731, recon_loss = 1096.3153, kl_loss = 4.6578
+Batch 480, loss = 1110.2305, recon_loss = 1105.7529, kl_loss = 4.4775
+Average loss: 1032.8152
+Epoch: 26
+Batch 30, loss = 942.6892, recon_loss = 938.3777, kl_loss = 4.3115
+Batch 60, loss = 855.9316, recon_loss = 851.5236, kl_loss = 4.4081
+Batch 90, loss = 1078.8868, recon_loss = 1074.2642, kl_loss = 4.6227
+Batch 120, loss = 994.3001, recon_loss = 989.8837, kl_loss = 4.4164
+Batch 150, loss = 969.4098, recon_loss = 964.8424, kl_loss = 4.5674
+Batch 180, loss = 1216.4921, recon_loss = 1212.1445, kl_loss = 4.3476
+Batch 210, loss = 812.4000, recon_loss = 808.0678, kl_loss = 4.3322
+Batch 240, loss = 981.2770, recon_loss = 976.7711, kl_loss = 4.5060
+Batch 270, loss = 1214.8767, recon_loss = 1210.4165, kl_loss = 4.4602
+Batch 300, loss = 918.3389, recon_loss = 913.8320, kl_loss = 4.5070
+Batch 330, loss = 817.1257, recon_loss = 812.8204, kl_loss = 4.3053
+Batch 360, loss = 1290.5533, recon_loss = 1285.8225, kl_loss = 4.7309
+Batch 390, loss = 1038.4995, recon_loss = 1033.9725, kl_loss = 4.5270
+Batch 420, loss = 911.8932, recon_loss = 907.3968, kl_loss = 4.4965
+Batch 450, loss = 1144.2925, recon_loss = 1139.6082, kl_loss = 4.6843
+Batch 480, loss = 757.3806, recon_loss = 752.9034, kl_loss = 4.4771
+Average loss: 1024.3205
+Epoch: 27
+Batch 30, loss = 1067.2932, recon_loss = 1062.8574, kl_loss = 4.4358
+Batch 60, loss = 1014.4208, recon_loss = 1009.9318, kl_loss = 4.4890
+Batch 90, loss = 1110.5656, recon_loss = 1106.0208, kl_loss = 4.5449
+Batch 120, loss = 1155.2811, recon_loss = 1150.7745, kl_loss = 4.5066
+Batch 150, loss = 838.5038, recon_loss = 834.0144, kl_loss = 4.4894
+Batch 180, loss = 877.4864, recon_loss = 872.9755, kl_loss = 4.5109
+Batch 210, loss = 1032.5114, recon_loss = 1027.8835, kl_loss = 4.6278
+Batch 240, loss = 1136.6271, recon_loss = 1132.0684, kl_loss = 4.5587
+Batch 270, loss = 1174.4843, recon_loss = 1170.1078, kl_loss = 4.3765
+Batch 300, loss = 1079.5302, recon_loss = 1074.9775, kl_loss = 4.5526
+Batch 330, loss = 967.2507, recon_loss = 962.4117, kl_loss = 4.8390
+Batch 360, loss = 1066.6403, recon_loss = 1062.0360, kl_loss = 4.6042
+Batch 390, loss = 1036.3672, recon_loss = 1031.7390, kl_loss = 4.6282
+Batch 420, loss = 857.8648, recon_loss = 853.2450, kl_loss = 4.6198
+Batch 450, loss = 1015.0645, recon_loss = 1010.4666, kl_loss = 4.5978
+Batch 480, loss = 1039.2795, recon_loss = 1034.6255, kl_loss = 4.6540
+Average loss: 1006.0352
+Epoch: 28
+Batch 30, loss = 1049.5088, recon_loss = 1044.6680, kl_loss = 4.8408
+Batch 60, loss = 1114.6888, recon_loss = 1110.0094, kl_loss = 4.6795
+Batch 90, loss = 753.7629, recon_loss = 749.1530, kl_loss = 4.6099
+Batch 120, loss = 1027.7764, recon_loss = 1023.1645, kl_loss = 4.6119
+Batch 150, loss = 908.7214, recon_loss = 904.2698, kl_loss = 4.4516
+Batch 180, loss = 871.7382, recon_loss = 867.1035, kl_loss = 4.6347
+Batch 210, loss = 844.7734, recon_loss = 840.2151, kl_loss = 4.5583
+Batch 240, loss = 861.3873, recon_loss = 856.9520, kl_loss = 4.4352
+Batch 270, loss = 900.7645, recon_loss = 896.0027, kl_loss = 4.7618
+Batch 300, loss = 970.3573, recon_loss = 965.6055, kl_loss = 4.7518
+Batch 330, loss = 1171.4977, recon_loss = 1166.7156, kl_loss = 4.7821
+Batch 360, loss = 1055.2788, recon_loss = 1050.6047, kl_loss = 4.6740
+Batch 390, loss = 903.5222, recon_loss = 899.1111, kl_loss = 4.4111
+Batch 420, loss = 1060.0895, recon_loss = 1055.3914, kl_loss = 4.6981
+Batch 450, loss = 898.1304, recon_loss = 893.4000, kl_loss = 4.7304
+Batch 480, loss = 1074.0138, recon_loss = 1069.4697, kl_loss = 4.5441
+Average loss: 967.7558
+Epoch: 29
+Batch 30, loss = 910.2712, recon_loss = 905.7434, kl_loss = 4.5278
+Batch 60, loss = 908.1168, recon_loss = 903.5062, kl_loss = 4.6106
+Batch 90, loss = 922.4271, recon_loss = 917.9274, kl_loss = 4.4997
+Batch 120, loss = 1094.5876, recon_loss = 1089.9830, kl_loss = 4.6046
+Batch 150, loss = 843.3433, recon_loss = 838.5647, kl_loss = 4.7786
+Batch 180, loss = 924.3084, recon_loss = 919.6711, kl_loss = 4.6373
+Batch 210, loss = 794.2383, recon_loss = 789.5764, kl_loss = 4.6619
+Batch 240, loss = 967.0980, recon_loss = 962.3375, kl_loss = 4.7604
+Batch 270, loss = 1108.5062, recon_loss = 1103.8091, kl_loss = 4.6971
+Batch 300, loss = 858.9826, recon_loss = 854.3221, kl_loss = 4.6605
+Batch 330, loss = 981.2980, recon_loss = 976.5366, kl_loss = 4.7614
+Batch 360, loss = 1000.0358, recon_loss = 995.2618, kl_loss = 4.7740
+Batch 390, loss = 871.9268, recon_loss = 867.1418, kl_loss = 4.7849
+Batch 420, loss = 886.0905, recon_loss = 881.4564, kl_loss = 4.6341
+Batch 450, loss = 924.7557, recon_loss = 920.0558, kl_loss = 4.6999
+Batch 480, loss = 903.7807, recon_loss = 898.9855, kl_loss = 4.7952
+Average loss: 958.8511
+Epoch: 30
+Batch 30, loss = 911.3014, recon_loss = 906.6990, kl_loss = 4.6024
+Batch 60, loss = 787.9592, recon_loss = 783.3358, kl_loss = 4.6235
+Batch 90, loss = 793.9191, recon_loss = 789.2538, kl_loss = 4.6653
+Batch 120, loss = 925.6235, recon_loss = 920.9139, kl_loss = 4.7095
+Batch 150, loss = 826.4116, recon_loss = 821.7790, kl_loss = 4.6326
+Batch 180, loss = 961.9916, recon_loss = 957.1294, kl_loss = 4.8623
+Batch 210, loss = 901.0361, recon_loss = 896.1992, kl_loss = 4.8369
+Batch 240, loss = 890.2800, recon_loss = 885.4651, kl_loss = 4.8149
+Batch 270, loss = 890.8273, recon_loss = 885.9683, kl_loss = 4.8591
+Batch 300, loss = 781.3749, recon_loss = 776.6675, kl_loss = 4.7074
+Batch 330, loss = 803.6626, recon_loss = 799.0701, kl_loss = 4.5925
+Batch 360, loss = 1047.0245, recon_loss = 1042.3274, kl_loss = 4.6972
+Batch 390, loss = 1034.6558, recon_loss = 1030.0908, kl_loss = 4.5649
+Batch 420, loss = 818.7299, recon_loss = 814.0137, kl_loss = 4.7162
+Batch 450, loss = 940.7899, recon_loss = 936.1150, kl_loss = 4.6748
+Batch 480, loss = 881.5668, recon_loss = 876.7471, kl_loss = 4.8197
+Average loss: 951.0845
+Epoch: 31
+Batch 30, loss = 912.6063, recon_loss = 907.8317, kl_loss = 4.7745
+Batch 60, loss = 1060.2640, recon_loss = 1055.5416, kl_loss = 4.7224
+Batch 90, loss = 952.7336, recon_loss = 948.1654, kl_loss = 4.5682
+Batch 120, loss = 882.6022, recon_loss = 878.0939, kl_loss = 4.5084
+Batch 150, loss = 928.1612, recon_loss = 923.5581, kl_loss = 4.6031
+Batch 180, loss = 1082.6708, recon_loss = 1077.8074, kl_loss = 4.8634
+Batch 210, loss = 612.5566, recon_loss = 607.9646, kl_loss = 4.5920
+Batch 240, loss = 775.5978, recon_loss = 771.0300, kl_loss = 4.5678
+Batch 270, loss = 671.1361, recon_loss = 666.4503, kl_loss = 4.6859
+Batch 300, loss = 830.2839, recon_loss = 825.7440, kl_loss = 4.5399
+Batch 330, loss = 894.3763, recon_loss = 889.8110, kl_loss = 4.5653
+Batch 360, loss = 963.7049, recon_loss = 959.0025, kl_loss = 4.7024
+Batch 390, loss = 1055.1235, recon_loss = 1050.5503, kl_loss = 4.5732
+Batch 420, loss = 754.2289, recon_loss = 749.5154, kl_loss = 4.7134
+Batch 450, loss = 950.1715, recon_loss = 945.4269, kl_loss = 4.7446
+Batch 480, loss = 1135.5930, recon_loss = 1130.6301, kl_loss = 4.9629
+Average loss: 917.9622
+Epoch: 32
+Batch 30, loss = 983.3076, recon_loss = 978.6998, kl_loss = 4.6077
+Batch 60, loss = 937.0138, recon_loss = 932.3204, kl_loss = 4.6934
+Batch 90, loss = 1030.9060, recon_loss = 1026.1672, kl_loss = 4.7388
+Batch 120, loss = 853.6131, recon_loss = 848.8823, kl_loss = 4.7308
+Batch 150, loss = 1014.5648, recon_loss = 1009.7408, kl_loss = 4.8240
+Batch 180, loss = 844.5671, recon_loss = 839.9492, kl_loss = 4.6179
+Batch 210, loss = 993.6680, recon_loss = 988.9840, kl_loss = 4.6839
+Batch 240, loss = 764.8043, recon_loss = 759.9518, kl_loss = 4.8525
+Batch 270, loss = 753.6690, recon_loss = 748.9700, kl_loss = 4.6991
+Batch 300, loss = 856.6513, recon_loss = 852.0453, kl_loss = 4.6060
+Batch 330, loss = 859.5673, recon_loss = 854.9202, kl_loss = 4.6470
+Batch 360, loss = 909.5460, recon_loss = 904.9823, kl_loss = 4.5637
+Batch 390, loss = 1071.2913, recon_loss = 1066.5022, kl_loss = 4.7891
+Batch 420, loss = 990.1711, recon_loss = 985.4447, kl_loss = 4.7263
+Batch 450, loss = 825.9822, recon_loss = 821.2838, kl_loss = 4.6984
+Batch 480, loss = 806.6589, recon_loss = 802.1013, kl_loss = 4.5576
+Average loss: 904.6116
+Epoch: 33
+Batch 30, loss = 932.6039, recon_loss = 927.8848, kl_loss = 4.7191
+Batch 60, loss = 893.7675, recon_loss = 888.9409, kl_loss = 4.8266
+Batch 90, loss = 767.3118, recon_loss = 762.5649, kl_loss = 4.7469
+Batch 120, loss = 861.7420, recon_loss = 856.9503, kl_loss = 4.7917
+Batch 150, loss = 835.0623, recon_loss = 830.2095, kl_loss = 4.8529
+Batch 180, loss = 911.1675, recon_loss = 906.4313, kl_loss = 4.7362
+Batch 210, loss = 947.4655, recon_loss = 942.7032, kl_loss = 4.7622
+Batch 240, loss = 831.4122, recon_loss = 826.7805, kl_loss = 4.6317
+Batch 270, loss = 944.4568, recon_loss = 939.7612, kl_loss = 4.6957
+Batch 300, loss = 968.4842, recon_loss = 963.7502, kl_loss = 4.7340
+Batch 330, loss = 866.7286, recon_loss = 861.8831, kl_loss = 4.8456
+Batch 360, loss = 810.5341, recon_loss = 805.6528, kl_loss = 4.8813
+Batch 390, loss = 989.8210, recon_loss = 985.0947, kl_loss = 4.7263
+Batch 420, loss = 781.4427, recon_loss = 776.6965, kl_loss = 4.7462
+Batch 450, loss = 1008.8362, recon_loss = 1004.0232, kl_loss = 4.8130
+Batch 480, loss = 832.1768, recon_loss = 827.3639, kl_loss = 4.8130
+Average loss: 880.0437
+Epoch: 34
+Batch 30, loss = 915.3759, recon_loss = 910.6502, kl_loss = 4.7257
+Batch 60, loss = 800.1005, recon_loss = 795.3984, kl_loss = 4.7021
+Batch 90, loss = 1150.3594, recon_loss = 1145.6545, kl_loss = 4.7049
+Batch 120, loss = 886.2468, recon_loss = 881.6401, kl_loss = 4.6067
+Batch 150, loss = 766.9199, recon_loss = 762.1575, kl_loss = 4.7624
+Batch 180, loss = 1018.6270, recon_loss = 1013.9070, kl_loss = 4.7199
+Batch 210, loss = 833.8354, recon_loss = 829.0605, kl_loss = 4.7749
+Batch 240, loss = 779.0559, recon_loss = 774.5085, kl_loss = 4.5473
+Batch 270, loss = 957.8112, recon_loss = 952.9191, kl_loss = 4.8921
+Batch 300, loss = 731.0207, recon_loss = 726.3898, kl_loss = 4.6309
+Batch 330, loss = 685.0104, recon_loss = 680.4220, kl_loss = 4.5884
+Batch 360, loss = 868.2097, recon_loss = 863.5211, kl_loss = 4.6886
+Batch 390, loss = 816.9182, recon_loss = 812.2339, kl_loss = 4.6843
+Batch 420, loss = 744.9924, recon_loss = 740.2600, kl_loss = 4.7324
+Batch 450, loss = 900.4117, recon_loss = 895.6387, kl_loss = 4.7730
+Batch 480, loss = 803.3630, recon_loss = 798.6321, kl_loss = 4.7309
+Average loss: 867.8410
+Epoch: 35
+Batch 30, loss = 888.1516, recon_loss = 883.2996, kl_loss = 4.8521
+Batch 60, loss = 869.5496, recon_loss = 864.8077, kl_loss = 4.7418
+Batch 90, loss = 728.3497, recon_loss = 723.5494, kl_loss = 4.8003
+Batch 120, loss = 696.3898, recon_loss = 691.6623, kl_loss = 4.7276
+Batch 150, loss = 771.1917, recon_loss = 766.4669, kl_loss = 4.7248
+Batch 180, loss = 1031.9889, recon_loss = 1027.2708, kl_loss = 4.7181
+Batch 210, loss = 946.6216, recon_loss = 941.9750, kl_loss = 4.6466
+Batch 240, loss = 902.8787, recon_loss = 898.2366, kl_loss = 4.6422
+Batch 270, loss = 857.5059, recon_loss = 852.8116, kl_loss = 4.6943
+Batch 300, loss = 804.2277, recon_loss = 799.3748, kl_loss = 4.8529
+Batch 330, loss = 784.7793, recon_loss = 779.9279, kl_loss = 4.8514
+Batch 360, loss = 877.7700, recon_loss = 872.9482, kl_loss = 4.8217
+Batch 390, loss = 804.4315, recon_loss = 799.7316, kl_loss = 4.6999
+Batch 420, loss = 867.9482, recon_loss = 863.0820, kl_loss = 4.8662
+Batch 450, loss = 797.3846, recon_loss = 792.7017, kl_loss = 4.6830
+Batch 480, loss = 773.4736, recon_loss = 768.8026, kl_loss = 4.6710
+Average loss: 845.5083
+Epoch: 36
+Batch 30, loss = 827.3027, recon_loss = 822.5328, kl_loss = 4.7699
+Batch 60, loss = 834.0526, recon_loss = 829.3008, kl_loss = 4.7519
+Batch 90, loss = 828.9098, recon_loss = 824.2856, kl_loss = 4.6242
+Batch 120, loss = 768.9048, recon_loss = 764.0875, kl_loss = 4.8174
+Batch 150, loss = 1025.5084, recon_loss = 1020.6108, kl_loss = 4.8976
+Batch 180, loss = 983.5946, recon_loss = 978.7567, kl_loss = 4.8379
+Batch 210, loss = 689.4554, recon_loss = 684.5742, kl_loss = 4.8812
+Batch 240, loss = 762.0993, recon_loss = 757.2039, kl_loss = 4.8954
+Batch 270, loss = 771.5792, recon_loss = 766.6776, kl_loss = 4.9017
+Batch 300, loss = 742.0028, recon_loss = 737.1915, kl_loss = 4.8113
+Batch 330, loss = 860.7634, recon_loss = 855.9451, kl_loss = 4.8183
+Batch 360, loss = 867.7882, recon_loss = 862.8527, kl_loss = 4.9355
+Batch 390, loss = 713.6993, recon_loss = 709.0077, kl_loss = 4.6916
+Batch 420, loss = 825.7928, recon_loss = 820.9119, kl_loss = 4.8809
+Batch 450, loss = 658.9144, recon_loss = 654.0426, kl_loss = 4.8718
+Batch 480, loss = 912.3502, recon_loss = 907.4139, kl_loss = 4.9363
+Average loss: 836.5680
+Epoch: 37
+Batch 30, loss = 829.8993, recon_loss = 824.9613, kl_loss = 4.9380
+Batch 60, loss = 841.6528, recon_loss = 836.6859, kl_loss = 4.9669
+Batch 90, loss = 823.2192, recon_loss = 818.3405, kl_loss = 4.8787
+Batch 120, loss = 824.4747, recon_loss = 819.6544, kl_loss = 4.8203
+Batch 150, loss = 814.9734, recon_loss = 810.0789, kl_loss = 4.8946
+Batch 180, loss = 971.6374, recon_loss = 966.8467, kl_loss = 4.7907
+Batch 210, loss = 940.6968, recon_loss = 935.6973, kl_loss = 4.9995
+Batch 240, loss = 687.7185, recon_loss = 682.9233, kl_loss = 4.7952
+Batch 270, loss = 686.1816, recon_loss = 681.3911, kl_loss = 4.7905
+Batch 300, loss = 824.4979, recon_loss = 819.7346, kl_loss = 4.7633
+Batch 330, loss = 858.0189, recon_loss = 853.1089, kl_loss = 4.9099
+Batch 360, loss = 1019.6326, recon_loss = 1014.7676, kl_loss = 4.8650
+Batch 390, loss = 786.9963, recon_loss = 782.1140, kl_loss = 4.8823
+Batch 420, loss = 967.4379, recon_loss = 962.4895, kl_loss = 4.9484
+Batch 450, loss = 1115.2251, recon_loss = 1110.2754, kl_loss = 4.9497
+Batch 480, loss = 590.5217, recon_loss = 585.6863, kl_loss = 4.8355
+Average loss: 834.8104
+Epoch: 38
+Batch 30, loss = 943.6617, recon_loss = 938.8230, kl_loss = 4.8388
+Batch 60, loss = 839.1707, recon_loss = 834.2051, kl_loss = 4.9655
+Batch 90, loss = 898.2028, recon_loss = 893.2559, kl_loss = 4.9469
+Batch 120, loss = 702.3458, recon_loss = 697.5210, kl_loss = 4.8248
+Batch 150, loss = 726.5236, recon_loss = 721.6720, kl_loss = 4.8516
+Batch 180, loss = 743.4534, recon_loss = 738.6382, kl_loss = 4.8152
+Batch 210, loss = 880.5530, recon_loss = 875.6879, kl_loss = 4.8650
+Batch 240, loss = 653.3591, recon_loss = 648.5681, kl_loss = 4.7910
+Batch 270, loss = 796.5880, recon_loss = 791.7147, kl_loss = 4.8732
+Batch 300, loss = 706.9376, recon_loss = 702.2079, kl_loss = 4.7297
+Batch 330, loss = 875.6107, recon_loss = 870.8750, kl_loss = 4.7357
+Batch 360, loss = 717.3281, recon_loss = 712.5520, kl_loss = 4.7760
+Batch 390, loss = 636.8892, recon_loss = 632.0554, kl_loss = 4.8337
+Batch 420, loss = 791.7425, recon_loss = 786.8369, kl_loss = 4.9056
+Batch 450, loss = 822.0252, recon_loss = 817.0272, kl_loss = 4.9980
+Batch 480, loss = 672.3141, recon_loss = 667.4175, kl_loss = 4.8966
+Average loss: 824.7380
+Epoch: 39
+Batch 30, loss = 804.1831, recon_loss = 799.4722, kl_loss = 4.7109
+Batch 60, loss = 838.1769, recon_loss = 833.1937, kl_loss = 4.9832
+Batch 90, loss = 835.4590, recon_loss = 830.5287, kl_loss = 4.9303
+Batch 120, loss = 713.2311, recon_loss = 708.3978, kl_loss = 4.8333
+Batch 150, loss = 819.2704, recon_loss = 814.3551, kl_loss = 4.9153
+Batch 180, loss = 636.9620, recon_loss = 632.0063, kl_loss = 4.9557
+Batch 210, loss = 670.5320, recon_loss = 665.6312, kl_loss = 4.9009
+Batch 240, loss = 752.1906, recon_loss = 747.4232, kl_loss = 4.7674
+Batch 270, loss = 864.6356, recon_loss = 859.6515, kl_loss = 4.9841
+Batch 300, loss = 608.2261, recon_loss = 603.3755, kl_loss = 4.8506
+Batch 330, loss = 902.8857, recon_loss = 897.9194, kl_loss = 4.9663
+Batch 360, loss = 853.9728, recon_loss = 849.1794, kl_loss = 4.7934
+Batch 390, loss = 656.6788, recon_loss = 651.7748, kl_loss = 4.9040
+Batch 420, loss = 758.0199, recon_loss = 753.3687, kl_loss = 4.6513
+Batch 450, loss = 837.6174, recon_loss = 832.7341, kl_loss = 4.8834
+Batch 480, loss = 824.8876, recon_loss = 820.0317, kl_loss = 4.8559
+Average loss: 786.3672
+Epoch: 40
+Batch 30, loss = 742.8566, recon_loss = 738.0461, kl_loss = 4.8105
+Batch 60, loss = 853.8099, recon_loss = 848.8623, kl_loss = 4.9476
+Batch 90, loss = 772.6449, recon_loss = 767.7286, kl_loss = 4.9163
+Batch 120, loss = 778.2328, recon_loss = 773.3314, kl_loss = 4.9014
+Batch 150, loss = 759.8010, recon_loss = 755.0349, kl_loss = 4.7661
+Batch 180, loss = 881.3885, recon_loss = 876.4915, kl_loss = 4.8970
+Batch 210, loss = 709.7246, recon_loss = 705.0031, kl_loss = 4.7216
+Batch 240, loss = 664.0342, recon_loss = 659.2432, kl_loss = 4.7910
+Batch 270, loss = 831.7775, recon_loss = 826.9978, kl_loss = 4.7797
+Batch 300, loss = 670.5806, recon_loss = 665.7480, kl_loss = 4.8326
+Batch 330, loss = 634.5422, recon_loss = 629.7836, kl_loss = 4.7586
+Batch 360, loss = 789.0268, recon_loss = 784.1450, kl_loss = 4.8818
+Batch 390, loss = 690.4547, recon_loss = 685.6116, kl_loss = 4.8430
+Batch 420, loss = 781.2119, recon_loss = 776.3136, kl_loss = 4.8983
+Batch 450, loss = 839.0035, recon_loss = 834.1351, kl_loss = 4.8684
+Batch 480, loss = 792.3451, recon_loss = 787.3587, kl_loss = 4.9864
+Average loss: 750.7085
+Epoch: 41
+Batch 30, loss = 926.1135, recon_loss = 921.1255, kl_loss = 4.9880
+Batch 60, loss = 820.9440, recon_loss = 816.0254, kl_loss = 4.9187
+Batch 90, loss = 775.2262, recon_loss = 770.1873, kl_loss = 5.0390
+Batch 120, loss = 729.6774, recon_loss = 724.6700, kl_loss = 5.0074
+Batch 150, loss = 718.5613, recon_loss = 713.6326, kl_loss = 4.9288
+Batch 180, loss = 827.8123, recon_loss = 822.8708, kl_loss = 4.9414
+Batch 210, loss = 744.5002, recon_loss = 739.6498, kl_loss = 4.8505
+Batch 240, loss = 738.4360, recon_loss = 733.6880, kl_loss = 4.7480
+Batch 270, loss = 795.5338, recon_loss = 790.5673, kl_loss = 4.9665
+Batch 300, loss = 629.9908, recon_loss = 625.0983, kl_loss = 4.8925
+Batch 330, loss = 664.5110, recon_loss = 659.5897, kl_loss = 4.9214
+Batch 360, loss = 779.1014, recon_loss = 774.1921, kl_loss = 4.9092
+Batch 390, loss = 592.7216, recon_loss = 587.8401, kl_loss = 4.8815
+Batch 420, loss = 816.8148, recon_loss = 811.7411, kl_loss = 5.0737
+Batch 450, loss = 996.9097, recon_loss = 991.8762, kl_loss = 5.0335
+Batch 480, loss = 485.6035, recon_loss = 480.7509, kl_loss = 4.8526
+Average loss: 735.4097
+Epoch: 42
+Batch 30, loss = 802.1896, recon_loss = 797.2772, kl_loss = 4.9124
+Batch 60, loss = 726.8406, recon_loss = 721.7739, kl_loss = 5.0667
+Batch 90, loss = 613.1823, recon_loss = 608.2325, kl_loss = 4.9498
+Batch 120, loss = 692.7588, recon_loss = 687.8414, kl_loss = 4.9173
+Batch 150, loss = 738.9481, recon_loss = 734.0149, kl_loss = 4.9332
+Batch 180, loss = 678.4200, recon_loss = 673.5370, kl_loss = 4.8829
+Batch 210, loss = 765.1743, recon_loss = 760.2708, kl_loss = 4.9036
+Batch 240, loss = 653.2731, recon_loss = 648.3300, kl_loss = 4.9432
+Batch 270, loss = 757.7658, recon_loss = 752.7417, kl_loss = 5.0241
+Batch 300, loss = 797.1334, recon_loss = 792.1099, kl_loss = 5.0235
+Batch 330, loss = 711.3132, recon_loss = 706.3387, kl_loss = 4.9744
+Batch 360, loss = 815.3163, recon_loss = 810.2921, kl_loss = 5.0242
+Batch 390, loss = 795.3040, recon_loss = 790.2491, kl_loss = 5.0548
+Batch 420, loss = 740.7128, recon_loss = 735.8255, kl_loss = 4.8873
+Batch 450, loss = 681.8448, recon_loss = 676.9117, kl_loss = 4.9331
+Batch 480, loss = 582.8121, recon_loss = 577.9502, kl_loss = 4.8620
+Average loss: 718.1057
+Epoch: 43
+Batch 30, loss = 728.5320, recon_loss = 723.6451, kl_loss = 4.8868
+Batch 60, loss = 543.3406, recon_loss = 538.4105, kl_loss = 4.9300
+Batch 90, loss = 907.1837, recon_loss = 902.0800, kl_loss = 5.1038
+Batch 120, loss = 772.6241, recon_loss = 767.5765, kl_loss = 5.0477
+Batch 150, loss = 965.5588, recon_loss = 960.4957, kl_loss = 5.0630
+Batch 180, loss = 674.4286, recon_loss = 669.5410, kl_loss = 4.8876
+Batch 210, loss = 537.0152, recon_loss = 532.0225, kl_loss = 4.9927
+Batch 240, loss = 688.6914, recon_loss = 683.7358, kl_loss = 4.9556
+Batch 270, loss = 1018.0466, recon_loss = 1013.0374, kl_loss = 5.0093
+Batch 300, loss = 646.1511, recon_loss = 641.1656, kl_loss = 4.9855
+Batch 330, loss = 743.1754, recon_loss = 738.3602, kl_loss = 4.8152
+Batch 360, loss = 724.9166, recon_loss = 719.9850, kl_loss = 4.9316
+Batch 390, loss = 749.0823, recon_loss = 744.1280, kl_loss = 4.9544
+Batch 420, loss = 545.5652, recon_loss = 540.7208, kl_loss = 4.8443
+Batch 450, loss = 643.4909, recon_loss = 638.6182, kl_loss = 4.8728
+Batch 480, loss = 726.7853, recon_loss = 721.8775, kl_loss = 4.9078
+Average loss: 698.0377
+Epoch: 44
+Batch 30, loss = 637.5837, recon_loss = 632.6591, kl_loss = 4.9247
+Batch 60, loss = 534.7871, recon_loss = 529.9645, kl_loss = 4.8226
+Batch 90, loss = 624.1575, recon_loss = 619.2904, kl_loss = 4.8670
+Batch 120, loss = 682.4810, recon_loss = 677.5385, kl_loss = 4.9424
+Batch 150, loss = 646.9444, recon_loss = 641.9707, kl_loss = 4.9737
+Batch 180, loss = 625.1689, recon_loss = 620.1835, kl_loss = 4.9854
+Batch 210, loss = 794.8369, recon_loss = 789.8098, kl_loss = 5.0271
+Batch 240, loss = 641.3832, recon_loss = 636.5193, kl_loss = 4.8639
+Batch 270, loss = 677.6491, recon_loss = 672.7007, kl_loss = 4.9484
+Batch 300, loss = 821.2317, recon_loss = 816.2432, kl_loss = 4.9885
+Batch 330, loss = 471.8491, recon_loss = 466.8907, kl_loss = 4.9584
+Batch 360, loss = 794.8425, recon_loss = 789.8585, kl_loss = 4.9839
+Batch 390, loss = 762.1686, recon_loss = 757.1189, kl_loss = 5.0497
+Batch 420, loss = 745.6047, recon_loss = 740.5471, kl_loss = 5.0576
+Batch 450, loss = 692.8932, recon_loss = 687.8910, kl_loss = 5.0023
+Batch 480, loss = 694.4099, recon_loss = 689.3770, kl_loss = 5.0329
+Average loss: 681.4214
+Epoch: 45
+Batch 30, loss = 689.1077, recon_loss = 683.9975, kl_loss = 5.1101
+Batch 60, loss = 689.5719, recon_loss = 684.5886, kl_loss = 4.9833
+Batch 90, loss = 577.0278, recon_loss = 572.0542, kl_loss = 4.9736
+Batch 120, loss = 678.1138, recon_loss = 673.1004, kl_loss = 5.0134
+Batch 150, loss = 729.3068, recon_loss = 724.2243, kl_loss = 5.0825
+Batch 180, loss = 784.2617, recon_loss = 779.2305, kl_loss = 5.0312
+Batch 210, loss = 530.5228, recon_loss = 525.5334, kl_loss = 4.9894
+Batch 240, loss = 681.5820, recon_loss = 676.7206, kl_loss = 4.8613
+Batch 270, loss = 756.0872, recon_loss = 751.1746, kl_loss = 4.9127
+Batch 300, loss = 711.0651, recon_loss = 706.1288, kl_loss = 4.9363
+Batch 330, loss = 630.3189, recon_loss = 625.3188, kl_loss = 5.0000
+Batch 360, loss = 797.6323, recon_loss = 792.5411, kl_loss = 5.0912
+Batch 390, loss = 678.4489, recon_loss = 673.4086, kl_loss = 5.0403
+Batch 420, loss = 576.2952, recon_loss = 571.2664, kl_loss = 5.0288
+Batch 450, loss = 583.2661, recon_loss = 578.3049, kl_loss = 4.9612
+Batch 480, loss = 632.9037, recon_loss = 627.8849, kl_loss = 5.0188
+Average loss: 671.9508
+Epoch: 46
+Batch 30, loss = 567.2023, recon_loss = 562.2097, kl_loss = 4.9926
+Batch 60, loss = 585.4604, recon_loss = 580.3391, kl_loss = 5.1213
+Batch 90, loss = 596.0403, recon_loss = 591.0616, kl_loss = 4.9787
+Batch 120, loss = 620.2072, recon_loss = 615.1467, kl_loss = 5.0605
+Batch 150, loss = 658.9682, recon_loss = 653.8358, kl_loss = 5.1324
+Batch 180, loss = 648.0518, recon_loss = 643.0640, kl_loss = 4.9878
+Batch 210, loss = 782.8511, recon_loss = 777.8480, kl_loss = 5.0031
+Batch 240, loss = 745.0300, recon_loss = 739.8818, kl_loss = 5.1482
+Batch 270, loss = 611.1248, recon_loss = 606.2064, kl_loss = 4.9184
+Batch 300, loss = 655.0989, recon_loss = 650.1357, kl_loss = 4.9631
+Batch 330, loss = 622.1176, recon_loss = 616.9882, kl_loss = 5.1294
+Batch 360, loss = 636.8804, recon_loss = 631.7152, kl_loss = 5.1652
+Batch 390, loss = 679.6723, recon_loss = 674.7089, kl_loss = 4.9634
+Batch 420, loss = 465.4082, recon_loss = 460.4149, kl_loss = 4.9933
+Batch 450, loss = 538.7051, recon_loss = 533.6957, kl_loss = 5.0094
+Batch 480, loss = 564.2496, recon_loss = 559.1621, kl_loss = 5.0875
+Average loss: 633.4358
+Epoch: 47
+Batch 30, loss = 600.4963, recon_loss = 595.3379, kl_loss = 5.1585
+Batch 60, loss = 520.1007, recon_loss = 515.1442, kl_loss = 4.9565
+Batch 90, loss = 676.4075, recon_loss = 671.3405, kl_loss = 5.0670
+Batch 120, loss = 558.5055, recon_loss = 553.4407, kl_loss = 5.0647
+Batch 150, loss = 599.3063, recon_loss = 594.2681, kl_loss = 5.0382
+Batch 180, loss = 596.3195, recon_loss = 591.2382, kl_loss = 5.0813
+Batch 210, loss = 648.7820, recon_loss = 643.5972, kl_loss = 5.1849
+Batch 240, loss = 579.8164, recon_loss = 574.6650, kl_loss = 5.1514
+Batch 270, loss = 766.3269, recon_loss = 761.3091, kl_loss = 5.0178
+Batch 300, loss = 516.2213, recon_loss = 511.1806, kl_loss = 5.0407
+Batch 330, loss = 532.9756, recon_loss = 527.8600, kl_loss = 5.1157
+Batch 360, loss = 452.0829, recon_loss = 447.0271, kl_loss = 5.0558
+Batch 390, loss = 503.8025, recon_loss = 498.6902, kl_loss = 5.1123
+Batch 420, loss = 367.1606, recon_loss = 362.1833, kl_loss = 4.9773
+Batch 450, loss = 695.7147, recon_loss = 690.6238, kl_loss = 5.0909
+Batch 480, loss = 583.6387, recon_loss = 578.5651, kl_loss = 5.0736
+Average loss: 604.6736
+Epoch: 48
+Batch 30, loss = 624.2191, recon_loss = 619.1533, kl_loss = 5.0658
+Batch 60, loss = 702.6047, recon_loss = 697.5408, kl_loss = 5.0640
+Batch 90, loss = 515.0938, recon_loss = 510.0854, kl_loss = 5.0083
+Batch 120, loss = 569.7031, recon_loss = 564.7794, kl_loss = 4.9238
+Batch 150, loss = 552.5953, recon_loss = 547.5466, kl_loss = 5.0487
+Batch 180, loss = 816.5703, recon_loss = 811.5431, kl_loss = 5.0272
+Batch 210, loss = 664.0187, recon_loss = 659.0314, kl_loss = 4.9873
+Batch 240, loss = 499.1852, recon_loss = 494.1422, kl_loss = 5.0430
+Batch 270, loss = 546.5332, recon_loss = 541.4211, kl_loss = 5.1121
+Batch 300, loss = 474.1481, recon_loss = 469.0332, kl_loss = 5.1149
+Batch 330, loss = 596.1651, recon_loss = 591.0835, kl_loss = 5.0816
+Batch 360, loss = 634.5114, recon_loss = 629.4170, kl_loss = 5.0944
+Batch 390, loss = 605.2748, recon_loss = 600.1942, kl_loss = 5.0806
+Batch 420, loss = 641.0244, recon_loss = 635.9562, kl_loss = 5.0682
+Batch 450, loss = 467.9302, recon_loss = 462.9166, kl_loss = 5.0136
+Batch 480, loss = 713.7047, recon_loss = 708.5774, kl_loss = 5.1272
+Average loss: 600.2911
+Epoch: 49
+Batch 30, loss = 730.0387, recon_loss = 724.8593, kl_loss = 5.1795
+Batch 60, loss = 522.8253, recon_loss = 517.7642, kl_loss = 5.0611
+Batch 90, loss = 567.5438, recon_loss = 562.4049, kl_loss = 5.1389
+Batch 120, loss = 631.8516, recon_loss = 626.7457, kl_loss = 5.1059
+Batch 150, loss = 585.8947, recon_loss = 580.7197, kl_loss = 5.1750
+Batch 180, loss = 591.5530, recon_loss = 586.3138, kl_loss = 5.2392
+Batch 210, loss = 486.4753, recon_loss = 481.3893, kl_loss = 5.0860
+Batch 240, loss = 485.5656, recon_loss = 480.4153, kl_loss = 5.1503
+Batch 270, loss = 519.5991, recon_loss = 514.5240, kl_loss = 5.0750
+Batch 300, loss = 580.4627, recon_loss = 575.3959, kl_loss = 5.0668
+Batch 330, loss = 600.8912, recon_loss = 595.7974, kl_loss = 5.0938
+Batch 360, loss = 440.7736, recon_loss = 435.7448, kl_loss = 5.0289
+Batch 390, loss = 601.8261, recon_loss = 596.7565, kl_loss = 5.0696
+Batch 420, loss = 527.4413, recon_loss = 522.3011, kl_loss = 5.1402
+Batch 450, loss = 570.9081, recon_loss = 565.7323, kl_loss = 5.1758
+Batch 480, loss = 562.8663, recon_loss = 557.7545, kl_loss = 5.1118
+Average loss: 560.3972
+Epoch: 50
+Batch 30, loss = 549.6763, recon_loss = 544.5579, kl_loss = 5.1184
+Batch 60, loss = 662.2324, recon_loss = 657.0665, kl_loss = 5.1659
+Batch 90, loss = 509.5675, recon_loss = 504.4980, kl_loss = 5.0696
+Batch 120, loss = 647.2534, recon_loss = 642.1635, kl_loss = 5.0899
+Batch 150, loss = 602.8426, recon_loss = 597.7623, kl_loss = 5.0803
+Batch 180, loss = 483.9629, recon_loss = 478.8662, kl_loss = 5.0967
+Batch 210, loss = 570.3453, recon_loss = 565.3059, kl_loss = 5.0394
+Batch 240, loss = 545.2628, recon_loss = 540.1265, kl_loss = 5.1363
+Batch 270, loss = 481.1324, recon_loss = 476.0234, kl_loss = 5.1090
+Batch 300, loss = 436.6905, recon_loss = 431.6542, kl_loss = 5.0363
+Batch 330, loss = 717.7269, recon_loss = 712.6096, kl_loss = 5.1172
+Batch 360, loss = 515.2614, recon_loss = 510.1505, kl_loss = 5.1109
+Batch 390, loss = 601.0432, recon_loss = 596.0406, kl_loss = 5.0025
+Batch 420, loss = 480.6021, recon_loss = 475.4382, kl_loss = 5.1638
+Batch 450, loss = 533.1193, recon_loss = 527.9615, kl_loss = 5.1579
+Batch 480, loss = 579.0928, recon_loss = 573.9323, kl_loss = 5.1605
+Average loss: 553.1090
+Epoch: 51
+Batch 30, loss = 494.5318, recon_loss = 489.4418, kl_loss = 5.0900
+Batch 60, loss = 439.2692, recon_loss = 434.1736, kl_loss = 5.0956
+Batch 90, loss = 547.0513, recon_loss = 541.9163, kl_loss = 5.1351
+Batch 120, loss = 591.1229, recon_loss = 585.9463, kl_loss = 5.1766
+Batch 150, loss = 435.2327, recon_loss = 430.0455, kl_loss = 5.1872
+Batch 180, loss = 661.5474, recon_loss = 656.3075, kl_loss = 5.2399
+Batch 210, loss = 521.0927, recon_loss = 515.9602, kl_loss = 5.1325
+Batch 240, loss = 643.8952, recon_loss = 638.7472, kl_loss = 5.1480
+Batch 270, loss = 627.3284, recon_loss = 622.1813, kl_loss = 5.1470
+Batch 300, loss = 434.3963, recon_loss = 429.2774, kl_loss = 5.1190
+Batch 330, loss = 598.9409, recon_loss = 593.8113, kl_loss = 5.1295
+Batch 360, loss = 559.2077, recon_loss = 554.0103, kl_loss = 5.1974
+Batch 390, loss = 510.0478, recon_loss = 504.8734, kl_loss = 5.1745
+Batch 420, loss = 600.8913, recon_loss = 595.6115, kl_loss = 5.2798
+Batch 450, loss = 493.8267, recon_loss = 488.7080, kl_loss = 5.1187
+Batch 480, loss = 514.1945, recon_loss = 509.0043, kl_loss = 5.1901
+Average loss: 537.9523
+Epoch: 52
+Batch 30, loss = 465.2641, recon_loss = 460.1407, kl_loss = 5.1234
+Batch 60, loss = 493.5162, recon_loss = 488.4142, kl_loss = 5.1019
+Batch 90, loss = 539.3725, recon_loss = 534.0771, kl_loss = 5.2953
+Batch 120, loss = 552.5674, recon_loss = 547.3229, kl_loss = 5.2446
+Batch 150, loss = 499.0245, recon_loss = 493.7589, kl_loss = 5.2656
+Batch 180, loss = 474.2219, recon_loss = 469.1086, kl_loss = 5.1133
+Batch 210, loss = 512.7454, recon_loss = 507.5843, kl_loss = 5.1610
+Batch 240, loss = 536.0488, recon_loss = 530.8571, kl_loss = 5.1916
+Batch 270, loss = 606.9351, recon_loss = 601.8551, kl_loss = 5.0800
+Batch 300, loss = 484.0192, recon_loss = 478.8632, kl_loss = 5.1561
+Batch 330, loss = 463.2121, recon_loss = 458.0721, kl_loss = 5.1400
+Batch 360, loss = 537.5204, recon_loss = 532.3640, kl_loss = 5.1564
+Batch 390, loss = 427.3067, recon_loss = 422.1761, kl_loss = 5.1306
+Batch 420, loss = 664.0873, recon_loss = 658.8534, kl_loss = 5.2340
+Batch 450, loss = 625.8265, recon_loss = 620.6138, kl_loss = 5.2127
+Batch 480, loss = 657.6152, recon_loss = 652.3256, kl_loss = 5.2896
+Average loss: 523.3997
+Epoch: 53
+Batch 30, loss = 460.5948, recon_loss = 455.4460, kl_loss = 5.1488
+Batch 60, loss = 444.5812, recon_loss = 439.4222, kl_loss = 5.1590
+Batch 90, loss = 606.2620, recon_loss = 601.0671, kl_loss = 5.1948
+Batch 120, loss = 548.6809, recon_loss = 543.5217, kl_loss = 5.1592
+Batch 150, loss = 489.0911, recon_loss = 483.9857, kl_loss = 5.1055
+Batch 180, loss = 602.0392, recon_loss = 596.8509, kl_loss = 5.1883
+Batch 210, loss = 458.1315, recon_loss = 452.9907, kl_loss = 5.1408
+Batch 240, loss = 598.1680, recon_loss = 592.9117, kl_loss = 5.2563
+Batch 270, loss = 491.8183, recon_loss = 486.6096, kl_loss = 5.2087
+Batch 300, loss = 615.0193, recon_loss = 609.6832, kl_loss = 5.3362
+Batch 330, loss = 528.7609, recon_loss = 523.6259, kl_loss = 5.1351
+Batch 360, loss = 457.8363, recon_loss = 452.7054, kl_loss = 5.1309
+Batch 390, loss = 542.1597, recon_loss = 536.8959, kl_loss = 5.2638
+Batch 420, loss = 601.0844, recon_loss = 595.8370, kl_loss = 5.2475
+Batch 450, loss = 581.1288, recon_loss = 575.9434, kl_loss = 5.1854
+Batch 480, loss = 517.9554, recon_loss = 512.8294, kl_loss = 5.1260
+Average loss: 525.4151
+Epoch: 54
+Batch 30, loss = 577.6188, recon_loss = 572.4554, kl_loss = 5.1635
+Batch 60, loss = 613.4419, recon_loss = 608.2141, kl_loss = 5.2278
+Batch 90, loss = 460.6464, recon_loss = 455.5502, kl_loss = 5.0962
+Batch 120, loss = 508.2594, recon_loss = 503.1558, kl_loss = 5.1036
+Batch 150, loss = 585.1171, recon_loss = 579.9240, kl_loss = 5.1931
+Batch 180, loss = 444.8825, recon_loss = 439.7155, kl_loss = 5.1671
+Batch 210, loss = 531.7159, recon_loss = 526.6227, kl_loss = 5.0932
+Batch 240, loss = 641.5301, recon_loss = 636.2745, kl_loss = 5.2556
+Batch 270, loss = 593.4262, recon_loss = 588.3071, kl_loss = 5.1191
+Batch 300, loss = 553.4979, recon_loss = 548.3295, kl_loss = 5.1684
+Batch 330, loss = 455.2847, recon_loss = 450.1655, kl_loss = 5.1192
+Batch 360, loss = 462.2798, recon_loss = 457.1282, kl_loss = 5.1515
+Batch 390, loss = 540.7266, recon_loss = 535.5002, kl_loss = 5.2263
+Batch 420, loss = 481.8248, recon_loss = 476.7619, kl_loss = 5.0629
+Batch 450, loss = 445.6447, recon_loss = 440.5894, kl_loss = 5.0553
+Batch 480, loss = 419.8379, recon_loss = 414.7428, kl_loss = 5.0952
+Average loss: 501.2427
+Epoch: 55
+Batch 30, loss = 423.2419, recon_loss = 418.1093, kl_loss = 5.1326
+Batch 60, loss = 462.5696, recon_loss = 457.5114, kl_loss = 5.0582
+Batch 90, loss = 444.9844, recon_loss = 439.8678, kl_loss = 5.1166
+Batch 120, loss = 478.2742, recon_loss = 473.1675, kl_loss = 5.1066
+Batch 150, loss = 518.9984, recon_loss = 513.8721, kl_loss = 5.1263
+Batch 180, loss = 355.8448, recon_loss = 350.8362, kl_loss = 5.0086
+Batch 210, loss = 468.8543, recon_loss = 463.7859, kl_loss = 5.0684
+Batch 240, loss = 721.5561, recon_loss = 716.4233, kl_loss = 5.1327
+Batch 270, loss = 523.2183, recon_loss = 518.0969, kl_loss = 5.1214
+Batch 300, loss = 435.4276, recon_loss = 430.3068, kl_loss = 5.1207
+Batch 330, loss = 618.3002, recon_loss = 613.1628, kl_loss = 5.1373
+Batch 360, loss = 464.9251, recon_loss = 459.7697, kl_loss = 5.1554
+Batch 390, loss = 591.3753, recon_loss = 586.0320, kl_loss = 5.3433
+Batch 420, loss = 618.7678, recon_loss = 613.6345, kl_loss = 5.1333
+Batch 450, loss = 522.3430, recon_loss = 517.1927, kl_loss = 5.1503
+Batch 480, loss = 669.6464, recon_loss = 664.4420, kl_loss = 5.2044
+Average loss: 502.1684
+Epoch: 56
+Batch 30, loss = 515.7764, recon_loss = 510.6264, kl_loss = 5.1500
+Batch 60, loss = 525.6808, recon_loss = 520.5074, kl_loss = 5.1733
+Batch 90, loss = 430.7661, recon_loss = 425.5645, kl_loss = 5.2016
+Batch 120, loss = 340.1724, recon_loss = 335.0209, kl_loss = 5.1515
+Batch 150, loss = 524.6266, recon_loss = 519.5444, kl_loss = 5.0822
+Batch 180, loss = 525.9395, recon_loss = 520.8549, kl_loss = 5.0846
+Batch 210, loss = 403.9358, recon_loss = 398.8586, kl_loss = 5.0773
+Batch 240, loss = 390.7740, recon_loss = 385.7264, kl_loss = 5.0475
+Batch 270, loss = 620.1194, recon_loss = 614.9847, kl_loss = 5.1347
+Batch 300, loss = 309.3902, recon_loss = 304.2939, kl_loss = 5.0963
+Batch 330, loss = 444.2178, recon_loss = 439.1292, kl_loss = 5.0886
+Batch 360, loss = 606.0947, recon_loss = 600.9186, kl_loss = 5.1761
+Batch 390, loss = 529.6940, recon_loss = 524.5906, kl_loss = 5.1034
+Batch 420, loss = 666.0477, recon_loss = 660.9059, kl_loss = 5.1417
+Batch 450, loss = 595.9946, recon_loss = 590.8146, kl_loss = 5.1801
+Batch 480, loss = 490.2556, recon_loss = 485.1226, kl_loss = 5.1330
+Average loss: 510.3994
+Epoch: 57
+Batch 30, loss = 541.0555, recon_loss = 535.9092, kl_loss = 5.1464
+Batch 60, loss = 470.2152, recon_loss = 465.1551, kl_loss = 5.0602
+Batch 90, loss = 468.0421, recon_loss = 462.8931, kl_loss = 5.1490
+Batch 120, loss = 561.7534, recon_loss = 556.5914, kl_loss = 5.1620
+Batch 150, loss = 659.1461, recon_loss = 654.0295, kl_loss = 5.1167
+Batch 180, loss = 529.9241, recon_loss = 524.8456, kl_loss = 5.0785
+Batch 210, loss = 536.4557, recon_loss = 531.2783, kl_loss = 5.1775
+Batch 240, loss = 602.0935, recon_loss = 596.9418, kl_loss = 5.1517
+Batch 270, loss = 507.3214, recon_loss = 502.1423, kl_loss = 5.1790
+Batch 300, loss = 578.5170, recon_loss = 573.3954, kl_loss = 5.1216
+Batch 330, loss = 420.4596, recon_loss = 415.3289, kl_loss = 5.1308
+Batch 360, loss = 510.3725, recon_loss = 505.2605, kl_loss = 5.1120
+Batch 390, loss = 482.3272, recon_loss = 477.2368, kl_loss = 5.0904
+Batch 420, loss = 340.6498, recon_loss = 335.5486, kl_loss = 5.1013
+Batch 450, loss = 355.2501, recon_loss = 350.1382, kl_loss = 5.1120
+Batch 480, loss = 425.8746, recon_loss = 420.6917, kl_loss = 5.1829
+Average loss: 511.4175
+Epoch: 58
+Batch 30, loss = 562.5749, recon_loss = 557.4073, kl_loss = 5.1676
+Batch 60, loss = 613.4633, recon_loss = 608.2664, kl_loss = 5.1969
+Batch 90, loss = 564.5166, recon_loss = 559.3612, kl_loss = 5.1554
+Batch 120, loss = 498.8511, recon_loss = 493.7402, kl_loss = 5.1109
+Batch 150, loss = 613.2830, recon_loss = 608.0944, kl_loss = 5.1885
+Batch 180, loss = 558.2620, recon_loss = 553.1451, kl_loss = 5.1169
+Batch 210, loss = 523.6924, recon_loss = 518.6324, kl_loss = 5.0599
+Batch 240, loss = 543.1130, recon_loss = 537.9260, kl_loss = 5.1870
+Batch 270, loss = 503.4260, recon_loss = 498.2832, kl_loss = 5.1428
+Batch 300, loss = 554.5770, recon_loss = 549.5153, kl_loss = 5.0617
+Batch 330, loss = 429.3107, recon_loss = 424.2194, kl_loss = 5.0913
+Batch 360, loss = 420.0874, recon_loss = 414.9674, kl_loss = 5.1201
+Batch 390, loss = 706.8425, recon_loss = 701.6926, kl_loss = 5.1499
+Batch 420, loss = 461.8402, recon_loss = 456.7615, kl_loss = 5.0787
+Batch 450, loss = 489.5094, recon_loss = 484.4568, kl_loss = 5.0526
+Batch 480, loss = 505.3419, recon_loss = 500.2386, kl_loss = 5.1033
+Average loss: 525.2545
+Epoch: 59
+Batch 30, loss = 566.7128, recon_loss = 561.6436, kl_loss = 5.0692
+Batch 60, loss = 522.9591, recon_loss = 517.8950, kl_loss = 5.0641
+Batch 90, loss = 475.5902, recon_loss = 470.4119, kl_loss = 5.1783
+Batch 120, loss = 483.0948, recon_loss = 478.0190, kl_loss = 5.0758
+Batch 150, loss = 476.2563, recon_loss = 471.1916, kl_loss = 5.0647
+Batch 180, loss = 430.8813, recon_loss = 425.8159, kl_loss = 5.0654
+Batch 210, loss = 510.7398, recon_loss = 505.6179, kl_loss = 5.1219
+Batch 240, loss = 382.7042, recon_loss = 377.5684, kl_loss = 5.1359
+Batch 270, loss = 422.8107, recon_loss = 417.6649, kl_loss = 5.1458
+Batch 300, loss = 466.7853, recon_loss = 461.6838, kl_loss = 5.1015
+Batch 330, loss = 452.3300, recon_loss = 447.2294, kl_loss = 5.1005
+Batch 360, loss = 525.9850, recon_loss = 520.8481, kl_loss = 5.1369
+Batch 390, loss = 514.2397, recon_loss = 509.0618, kl_loss = 5.1779
+Batch 420, loss = 416.7772, recon_loss = 411.6541, kl_loss = 5.1231
+Batch 450, loss = 416.6497, recon_loss = 411.5364, kl_loss = 5.1133
+Batch 480, loss = 619.1083, recon_loss = 614.0280, kl_loss = 5.0803
+Average loss: 485.5258
+Epoch: 60
+Batch 30, loss = 661.0038, recon_loss = 655.9347, kl_loss = 5.0691
+Batch 60, loss = 411.6893, recon_loss = 406.6331, kl_loss = 5.0562
+Batch 90, loss = 333.5859, recon_loss = 328.5354, kl_loss = 5.0505
+Batch 120, loss = 622.4886, recon_loss = 617.3556, kl_loss = 5.1330
+Batch 150, loss = 495.1434, recon_loss = 490.1136, kl_loss = 5.0298
+Batch 180, loss = 496.3902, recon_loss = 491.3775, kl_loss = 5.0127
+Batch 210, loss = 462.5996, recon_loss = 457.5782, kl_loss = 5.0214
+Batch 240, loss = 473.1038, recon_loss = 468.0546, kl_loss = 5.0492
+Batch 270, loss = 391.7537, recon_loss = 386.7469, kl_loss = 5.0068
+Batch 300, loss = 378.4647, recon_loss = 373.3544, kl_loss = 5.1103
+Batch 330, loss = 575.2401, recon_loss = 570.1028, kl_loss = 5.1374
+Batch 360, loss = 411.4060, recon_loss = 406.4028, kl_loss = 5.0033
+Batch 390, loss = 540.2142, recon_loss = 535.0884, kl_loss = 5.1258
+Batch 420, loss = 470.5024, recon_loss = 465.4286, kl_loss = 5.0738
+Batch 450, loss = 356.7729, recon_loss = 351.6917, kl_loss = 5.0812
+Batch 480, loss = 543.0422, recon_loss = 537.8424, kl_loss = 5.1998
+Average loss: 468.4772
+Epoch: 61
+Batch 30, loss = 368.9564, recon_loss = 363.7977, kl_loss = 5.1588
+Batch 60, loss = 589.2698, recon_loss = 584.1509, kl_loss = 5.1189
+Batch 90, loss = 348.9520, recon_loss = 343.8566, kl_loss = 5.0954
+Batch 120, loss = 416.6465, recon_loss = 411.5353, kl_loss = 5.1112
+Batch 150, loss = 469.3059, recon_loss = 464.1905, kl_loss = 5.1155
+Batch 180, loss = 259.2963, recon_loss = 254.3005, kl_loss = 4.9958
+Batch 210, loss = 422.5244, recon_loss = 417.3323, kl_loss = 5.1920
+Batch 240, loss = 466.9549, recon_loss = 461.7779, kl_loss = 5.1770
+Batch 270, loss = 394.2267, recon_loss = 389.1397, kl_loss = 5.0869
+Batch 300, loss = 435.2104, recon_loss = 430.0305, kl_loss = 5.1799
+Batch 330, loss = 585.6588, recon_loss = 580.5005, kl_loss = 5.1583
+Batch 360, loss = 496.7016, recon_loss = 491.5117, kl_loss = 5.1898
+Batch 390, loss = 500.9415, recon_loss = 495.6192, kl_loss = 5.3224
+Batch 420, loss = 452.8998, recon_loss = 447.7083, kl_loss = 5.1915
+Batch 450, loss = 404.8592, recon_loss = 399.6436, kl_loss = 5.2156
+Batch 480, loss = 381.6038, recon_loss = 376.4092, kl_loss = 5.1945
+Average loss: 449.6456
+Epoch: 62
+Batch 30, loss = 341.0215, recon_loss = 335.8568, kl_loss = 5.1648
+Batch 60, loss = 420.0348, recon_loss = 414.8320, kl_loss = 5.2027
+Batch 90, loss = 413.8199, recon_loss = 408.6882, kl_loss = 5.1317
+Batch 120, loss = 389.9924, recon_loss = 384.8568, kl_loss = 5.1356
+Batch 150, loss = 337.7243, recon_loss = 332.7421, kl_loss = 4.9823
+Batch 180, loss = 453.5866, recon_loss = 448.4882, kl_loss = 5.0984
+Batch 210, loss = 518.6948, recon_loss = 513.4597, kl_loss = 5.2351
+Batch 240, loss = 476.4529, recon_loss = 471.1939, kl_loss = 5.2590
+Batch 270, loss = 558.9062, recon_loss = 553.6158, kl_loss = 5.2904
+Batch 300, loss = 496.5523, recon_loss = 491.3433, kl_loss = 5.2090
+Batch 330, loss = 384.3120, recon_loss = 379.1934, kl_loss = 5.1186
+Batch 360, loss = 384.8432, recon_loss = 379.6727, kl_loss = 5.1705
+Batch 390, loss = 414.5207, recon_loss = 409.3902, kl_loss = 5.1305
+Batch 420, loss = 372.1639, recon_loss = 367.0062, kl_loss = 5.1577
+Batch 450, loss = 554.9061, recon_loss = 549.9267, kl_loss = 4.9795
+Batch 480, loss = 362.2862, recon_loss = 357.2918, kl_loss = 4.9944
+Average loss: 451.6173
+Epoch: 63
+Batch 30, loss = 449.8881, recon_loss = 444.7338, kl_loss = 5.1542
+Batch 60, loss = 389.6260, recon_loss = 384.4676, kl_loss = 5.1584
+Batch 90, loss = 417.2102, recon_loss = 412.0837, kl_loss = 5.1265
+Batch 120, loss = 392.6556, recon_loss = 387.4542, kl_loss = 5.2014
+Batch 150, loss = 459.7389, recon_loss = 454.6694, kl_loss = 5.0695
+Batch 180, loss = 368.5332, recon_loss = 363.3768, kl_loss = 5.1564
+Batch 210, loss = 342.0807, recon_loss = 336.9932, kl_loss = 5.0875
+Batch 240, loss = 464.7380, recon_loss = 459.5740, kl_loss = 5.1641
+Batch 270, loss = 333.9047, recon_loss = 328.8180, kl_loss = 5.0867
+Batch 300, loss = 532.4437, recon_loss = 527.3732, kl_loss = 5.0705
+Batch 330, loss = 469.8529, recon_loss = 464.7063, kl_loss = 5.1466
+Batch 360, loss = 519.2404, recon_loss = 514.0613, kl_loss = 5.1791
+Batch 390, loss = 612.0414, recon_loss = 606.8437, kl_loss = 5.1977
+Batch 420, loss = 338.6932, recon_loss = 333.5449, kl_loss = 5.1484
+Batch 450, loss = 469.7407, recon_loss = 464.5506, kl_loss = 5.1901
+Batch 480, loss = 428.0663, recon_loss = 422.9364, kl_loss = 5.1299
+Average loss: 425.6637
+Epoch: 64
+Batch 30, loss = 364.1300, recon_loss = 358.9813, kl_loss = 5.1488
+Batch 60, loss = 340.7160, recon_loss = 335.5991, kl_loss = 5.1170
+Batch 90, loss = 557.8433, recon_loss = 552.5881, kl_loss = 5.2552
+Batch 120, loss = 486.8682, recon_loss = 481.6842, kl_loss = 5.1839
+Batch 150, loss = 409.6640, recon_loss = 404.4589, kl_loss = 5.2051
+Batch 180, loss = 387.9654, recon_loss = 382.7906, kl_loss = 5.1748
+Batch 210, loss = 353.0273, recon_loss = 347.8740, kl_loss = 5.1533
+Batch 240, loss = 422.4890, recon_loss = 417.2318, kl_loss = 5.2571
+Batch 270, loss = 415.7444, recon_loss = 410.5742, kl_loss = 5.1702
+Batch 300, loss = 319.0526, recon_loss = 313.8453, kl_loss = 5.2073
+Batch 330, loss = 441.8869, recon_loss = 436.7462, kl_loss = 5.1407
+Batch 360, loss = 464.1991, recon_loss = 458.8858, kl_loss = 5.3134
+Batch 390, loss = 427.3186, recon_loss = 422.1407, kl_loss = 5.1779
+Batch 420, loss = 392.5275, recon_loss = 387.3148, kl_loss = 5.2127
+Batch 450, loss = 475.6133, recon_loss = 470.3928, kl_loss = 5.2205
+Batch 480, loss = 363.4970, recon_loss = 358.2570, kl_loss = 5.2400
+Average loss: 399.2687
+Epoch: 65
+Batch 30, loss = 322.0883, recon_loss = 316.9485, kl_loss = 5.1397
+Batch 60, loss = 391.3024, recon_loss = 386.0562, kl_loss = 5.2462
+Batch 90, loss = 385.0077, recon_loss = 379.7286, kl_loss = 5.2791
+Batch 120, loss = 412.3870, recon_loss = 407.2258, kl_loss = 5.1612
+Batch 150, loss = 418.8853, recon_loss = 413.6491, kl_loss = 5.2361
+Batch 180, loss = 438.4988, recon_loss = 433.3296, kl_loss = 5.1692
+Batch 210, loss = 472.9007, recon_loss = 467.6754, kl_loss = 5.2253
+Batch 240, loss = 316.1539, recon_loss = 311.0231, kl_loss = 5.1308
+Batch 270, loss = 325.3230, recon_loss = 320.1776, kl_loss = 5.1453
+Batch 300, loss = 357.7520, recon_loss = 352.5704, kl_loss = 5.1815
+Batch 330, loss = 409.2929, recon_loss = 404.0840, kl_loss = 5.2089
+Batch 360, loss = 347.0309, recon_loss = 341.9666, kl_loss = 5.0643
+Batch 390, loss = 332.8941, recon_loss = 327.7751, kl_loss = 5.1190
+Batch 420, loss = 304.4490, recon_loss = 299.2323, kl_loss = 5.2167
+Batch 450, loss = 231.3397, recon_loss = 226.2883, kl_loss = 5.0514
+Batch 480, loss = 434.6256, recon_loss = 429.4969, kl_loss = 5.1287
+Average loss: 395.1108
+Epoch: 66
+Batch 30, loss = 389.0869, recon_loss = 383.9425, kl_loss = 5.1444
+Batch 60, loss = 376.8490, recon_loss = 371.7134, kl_loss = 5.1355
+Batch 90, loss = 377.3956, recon_loss = 372.2045, kl_loss = 5.1911
+Batch 120, loss = 395.7089, recon_loss = 390.5732, kl_loss = 5.1356
+Batch 150, loss = 506.1589, recon_loss = 501.0198, kl_loss = 5.1391
+Batch 180, loss = 327.2442, recon_loss = 322.1132, kl_loss = 5.1311
+Batch 210, loss = 237.0065, recon_loss = 231.8752, kl_loss = 5.1312
+Batch 240, loss = 612.8250, recon_loss = 607.6365, kl_loss = 5.1886
+Batch 270, loss = 396.1312, recon_loss = 391.0012, kl_loss = 5.1300
+Batch 300, loss = 525.6130, recon_loss = 520.4338, kl_loss = 5.1791
+Batch 330, loss = 551.9345, recon_loss = 546.7158, kl_loss = 5.2187
+Batch 360, loss = 419.9196, recon_loss = 414.7194, kl_loss = 5.2002
+Batch 390, loss = 356.3216, recon_loss = 351.1378, kl_loss = 5.1838
+Batch 420, loss = 326.4560, recon_loss = 321.2502, kl_loss = 5.2058
+Batch 450, loss = 389.6779, recon_loss = 384.5871, kl_loss = 5.0908
+Batch 480, loss = 337.1687, recon_loss = 332.0354, kl_loss = 5.1333
+Average loss: 398.4907
+Epoch: 67
+Batch 30, loss = 361.5623, recon_loss = 356.4262, kl_loss = 5.1361
+Batch 60, loss = 347.3907, recon_loss = 342.2450, kl_loss = 5.1458
+Batch 90, loss = 391.9844, recon_loss = 386.8085, kl_loss = 5.1759
+Batch 120, loss = 377.1972, recon_loss = 372.0043, kl_loss = 5.1929
+Batch 150, loss = 433.2936, recon_loss = 428.1776, kl_loss = 5.1160
+Batch 180, loss = 396.0107, recon_loss = 390.8491, kl_loss = 5.1616
+Batch 210, loss = 479.3843, recon_loss = 474.2574, kl_loss = 5.1269
+Batch 240, loss = 376.6547, recon_loss = 371.5117, kl_loss = 5.1430
+Batch 270, loss = 329.5912, recon_loss = 324.4163, kl_loss = 5.1750
+Batch 300, loss = 292.7133, recon_loss = 287.5259, kl_loss = 5.1874
+Batch 330, loss = 455.9903, recon_loss = 450.8507, kl_loss = 5.1396
+Batch 360, loss = 316.6086, recon_loss = 311.4220, kl_loss = 5.1866
+Batch 390, loss = 306.2791, recon_loss = 301.0365, kl_loss = 5.2427
+Batch 420, loss = 324.4678, recon_loss = 319.2714, kl_loss = 5.1964
+Batch 450, loss = 362.4610, recon_loss = 357.2193, kl_loss = 5.2417
+Batch 480, loss = 587.4462, recon_loss = 582.2814, kl_loss = 5.1648
+Average loss: 395.2548
+Epoch: 68
+Batch 30, loss = 324.6653, recon_loss = 319.4893, kl_loss = 5.1760
+Batch 60, loss = 380.9662, recon_loss = 375.8232, kl_loss = 5.1430
+Batch 90, loss = 387.3031, recon_loss = 382.1103, kl_loss = 5.1928
+Batch 120, loss = 607.1976, recon_loss = 601.9700, kl_loss = 5.2276
+Batch 150, loss = 487.4447, recon_loss = 482.2238, kl_loss = 5.2210
+Batch 180, loss = 327.5354, recon_loss = 322.3468, kl_loss = 5.1886
+Batch 210, loss = 411.3382, recon_loss = 406.1338, kl_loss = 5.2044
+Batch 240, loss = 439.9141, recon_loss = 434.8190, kl_loss = 5.0951
+Batch 270, loss = 410.0213, recon_loss = 404.9006, kl_loss = 5.1206
+Batch 300, loss = 474.8350, recon_loss = 469.6503, kl_loss = 5.1847
+Batch 330, loss = 372.9964, recon_loss = 367.8297, kl_loss = 5.1667
+Batch 360, loss = 371.4921, recon_loss = 366.2274, kl_loss = 5.2648
+Batch 390, loss = 455.0128, recon_loss = 449.7717, kl_loss = 5.2411
+Batch 420, loss = 369.8133, recon_loss = 364.6757, kl_loss = 5.1376
+Batch 450, loss = 421.7743, recon_loss = 416.5131, kl_loss = 5.2613
+Batch 480, loss = 541.0032, recon_loss = 535.7466, kl_loss = 5.2566
+Average loss: 393.2089
+Epoch: 69
+Batch 30, loss = 390.8520, recon_loss = 385.6331, kl_loss = 5.2189
+Batch 60, loss = 325.8989, recon_loss = 320.7366, kl_loss = 5.1622
+Batch 90, loss = 320.1211, recon_loss = 314.9344, kl_loss = 5.1867
+Batch 120, loss = 343.0814, recon_loss = 337.9148, kl_loss = 5.1666
+Batch 150, loss = 401.5429, recon_loss = 396.3851, kl_loss = 5.1578
+Batch 180, loss = 247.3258, recon_loss = 242.2918, kl_loss = 5.0340
+Batch 210, loss = 341.5000, recon_loss = 336.3374, kl_loss = 5.1626
+Batch 240, loss = 432.1141, recon_loss = 426.8598, kl_loss = 5.2543
+Batch 270, loss = 377.7318, recon_loss = 372.5263, kl_loss = 5.2055
+Batch 300, loss = 434.1574, recon_loss = 428.9194, kl_loss = 5.2380
+Batch 330, loss = 434.3766, recon_loss = 429.2610, kl_loss = 5.1156
+Batch 360, loss = 397.8513, recon_loss = 392.5617, kl_loss = 5.2896
+Batch 390, loss = 448.8031, recon_loss = 443.5248, kl_loss = 5.2782
+Batch 420, loss = 433.4796, recon_loss = 428.1839, kl_loss = 5.2958
+Batch 450, loss = 449.1282, recon_loss = 443.9095, kl_loss = 5.2187
+Batch 480, loss = 500.5465, recon_loss = 495.3749, kl_loss = 5.1716
+Average loss: 372.3874
+Epoch: 70
+Batch 30, loss = 477.5848, recon_loss = 472.4678, kl_loss = 5.1169
+Batch 60, loss = 318.6729, recon_loss = 313.6634, kl_loss = 5.0095
+Batch 90, loss = 351.2537, recon_loss = 345.9665, kl_loss = 5.2873
+Batch 120, loss = 385.7075, recon_loss = 380.4370, kl_loss = 5.2705
+Batch 150, loss = 393.3738, recon_loss = 388.1684, kl_loss = 5.2055
+Batch 180, loss = 348.7383, recon_loss = 343.5487, kl_loss = 5.1896
+Batch 210, loss = 400.4861, recon_loss = 395.3211, kl_loss = 5.1649
+Batch 240, loss = 411.9334, recon_loss = 406.6611, kl_loss = 5.2724
+Batch 270, loss = 327.4231, recon_loss = 322.2474, kl_loss = 5.1756
+Batch 300, loss = 392.7728, recon_loss = 387.5471, kl_loss = 5.2257
+Batch 330, loss = 410.8018, recon_loss = 405.5402, kl_loss = 5.2617
+Batch 360, loss = 442.3106, recon_loss = 437.0874, kl_loss = 5.2232
+Batch 390, loss = 319.2780, recon_loss = 314.0858, kl_loss = 5.1922
+Batch 420, loss = 299.7934, recon_loss = 294.6170, kl_loss = 5.1764
+Batch 450, loss = 482.0644, recon_loss = 476.8741, kl_loss = 5.1903
+Batch 480, loss = 320.7525, recon_loss = 315.5671, kl_loss = 5.1853
+Average loss: 373.1934
+Epoch: 71
+Batch 30, loss = 379.0561, recon_loss = 373.8182, kl_loss = 5.2379
+Batch 60, loss = 364.0584, recon_loss = 358.8212, kl_loss = 5.2373
+Batch 90, loss = 307.3500, recon_loss = 302.1283, kl_loss = 5.2218
+Batch 120, loss = 467.4380, recon_loss = 462.1995, kl_loss = 5.2385
+Batch 150, loss = 277.4550, recon_loss = 272.2641, kl_loss = 5.1910
+Batch 180, loss = 375.0192, recon_loss = 369.7975, kl_loss = 5.2218
+Batch 210, loss = 460.0593, recon_loss = 454.8204, kl_loss = 5.2389
+Batch 240, loss = 402.1639, recon_loss = 397.0176, kl_loss = 5.1463
+Batch 270, loss = 406.5767, recon_loss = 401.3895, kl_loss = 5.1871
+Batch 300, loss = 361.6796, recon_loss = 356.5876, kl_loss = 5.0919
+Batch 330, loss = 316.6851, recon_loss = 311.5590, kl_loss = 5.1261
+Batch 360, loss = 305.4750, recon_loss = 300.3717, kl_loss = 5.1033
+Batch 390, loss = 257.3338, recon_loss = 252.1753, kl_loss = 5.1585
+Batch 420, loss = 419.5803, recon_loss = 414.3787, kl_loss = 5.2016
+Batch 450, loss = 384.6399, recon_loss = 379.4066, kl_loss = 5.2334
+Batch 480, loss = 263.5209, recon_loss = 258.4943, kl_loss = 5.0266
+Average loss: 364.4250
+Epoch: 72
+Batch 30, loss = 326.4508, recon_loss = 321.3461, kl_loss = 5.1047
+Batch 60, loss = 303.0445, recon_loss = 297.9046, kl_loss = 5.1399
+Batch 90, loss = 399.3893, recon_loss = 394.2508, kl_loss = 5.1385
+Batch 120, loss = 353.0034, recon_loss = 347.9399, kl_loss = 5.0636
+Batch 150, loss = 340.1609, recon_loss = 334.9721, kl_loss = 5.1888
+Batch 180, loss = 430.2761, recon_loss = 425.1416, kl_loss = 5.1345
+Batch 210, loss = 304.1213, recon_loss = 299.0988, kl_loss = 5.0225
+Batch 240, loss = 422.3273, recon_loss = 417.1782, kl_loss = 5.1491
+Batch 270, loss = 333.6730, recon_loss = 328.5341, kl_loss = 5.1388
+Batch 300, loss = 321.7735, recon_loss = 316.5750, kl_loss = 5.1985
+Batch 330, loss = 271.2173, recon_loss = 266.1543, kl_loss = 5.0631
+Batch 360, loss = 390.4048, recon_loss = 385.2027, kl_loss = 5.2021
+Batch 390, loss = 359.3623, recon_loss = 354.2111, kl_loss = 5.1512
+Batch 420, loss = 328.9373, recon_loss = 323.8477, kl_loss = 5.0896
+Batch 450, loss = 293.1579, recon_loss = 288.0018, kl_loss = 5.1561
+Batch 480, loss = 341.5833, recon_loss = 336.4299, kl_loss = 5.1533
+Average loss: 348.4252
+Epoch: 73
+Batch 30, loss = 217.5075, recon_loss = 212.4013, kl_loss = 5.1062
+Batch 60, loss = 312.5493, recon_loss = 307.4357, kl_loss = 5.1136
+Batch 90, loss = 321.7034, recon_loss = 316.5412, kl_loss = 5.1622
+Batch 120, loss = 317.7484, recon_loss = 312.6209, kl_loss = 5.1274
+Batch 150, loss = 317.1512, recon_loss = 311.9641, kl_loss = 5.1872
+Batch 180, loss = 253.0583, recon_loss = 248.0386, kl_loss = 5.0197
+Batch 210, loss = 341.6889, recon_loss = 336.4723, kl_loss = 5.2166
+Batch 240, loss = 385.2643, recon_loss = 380.0941, kl_loss = 5.1701
+Batch 270, loss = 321.2955, recon_loss = 316.1182, kl_loss = 5.1773
+Batch 300, loss = 323.5293, recon_loss = 318.3050, kl_loss = 5.2243
+Batch 330, loss = 344.6414, recon_loss = 339.4478, kl_loss = 5.1936
+Batch 360, loss = 379.1764, recon_loss = 373.9149, kl_loss = 5.2614
+Batch 390, loss = 409.6326, recon_loss = 404.3894, kl_loss = 5.2432
+Batch 420, loss = 454.5518, recon_loss = 449.3387, kl_loss = 5.2132
+Batch 450, loss = 360.6927, recon_loss = 355.6424, kl_loss = 5.0503
+Batch 480, loss = 387.4124, recon_loss = 382.3216, kl_loss = 5.0908
+Average loss: 351.8396
+Epoch: 74
+Batch 30, loss = 394.5906, recon_loss = 389.4104, kl_loss = 5.1802
+Batch 60, loss = 298.9905, recon_loss = 293.7926, kl_loss = 5.1979
+Batch 90, loss = 297.5913, recon_loss = 292.3776, kl_loss = 5.2137
+Batch 120, loss = 340.5540, recon_loss = 335.3843, kl_loss = 5.1697
+Batch 150, loss = 351.7090, recon_loss = 346.4775, kl_loss = 5.2315
+Batch 180, loss = 431.0795, recon_loss = 425.7985, kl_loss = 5.2810
+Batch 210, loss = 331.7947, recon_loss = 326.5674, kl_loss = 5.2273
+Batch 240, loss = 321.6927, recon_loss = 316.5464, kl_loss = 5.1463
+Batch 270, loss = 293.9291, recon_loss = 288.7497, kl_loss = 5.1794
+Batch 300, loss = 309.2779, recon_loss = 304.0182, kl_loss = 5.2597
+Batch 330, loss = 324.8330, recon_loss = 319.5375, kl_loss = 5.2955
+Batch 360, loss = 349.8641, recon_loss = 344.6351, kl_loss = 5.2291
+Batch 390, loss = 307.3960, recon_loss = 302.1541, kl_loss = 5.2420
+Batch 420, loss = 261.9322, recon_loss = 256.6958, kl_loss = 5.2364
+Batch 450, loss = 437.6448, recon_loss = 432.3845, kl_loss = 5.2603
+Batch 480, loss = 260.4788, recon_loss = 255.2426, kl_loss = 5.2362
+Average loss: 350.0819
+Epoch: 75
+Batch 30, loss = 299.5911, recon_loss = 294.4636, kl_loss = 5.1275
+Batch 60, loss = 606.1159, recon_loss = 600.9343, kl_loss = 5.1816
+Batch 90, loss = 391.5140, recon_loss = 386.3965, kl_loss = 5.1176
+Batch 120, loss = 390.0159, recon_loss = 384.8299, kl_loss = 5.1860
+Batch 150, loss = 391.4329, recon_loss = 386.1075, kl_loss = 5.3254
+Batch 180, loss = 431.2646, recon_loss = 426.0164, kl_loss = 5.2482
+Batch 210, loss = 334.5667, recon_loss = 329.3255, kl_loss = 5.2411
+Batch 240, loss = 257.9435, recon_loss = 252.7112, kl_loss = 5.2324
+Batch 270, loss = 343.3405, recon_loss = 338.1058, kl_loss = 5.2347
+Batch 300, loss = 405.8171, recon_loss = 400.6580, kl_loss = 5.1591
+Batch 330, loss = 377.8623, recon_loss = 372.6357, kl_loss = 5.2265
+Batch 360, loss = 430.4722, recon_loss = 425.3166, kl_loss = 5.1556
+Batch 390, loss = 351.7487, recon_loss = 346.5710, kl_loss = 5.1776
+Batch 420, loss = 258.7262, recon_loss = 253.5220, kl_loss = 5.2042
+Batch 450, loss = 560.0318, recon_loss = 554.7596, kl_loss = 5.2721
+Batch 480, loss = 406.4473, recon_loss = 401.1707, kl_loss = 5.2767
+Average loss: 347.6702
+Epoch: 76
+Batch 30, loss = 407.7387, recon_loss = 402.4649, kl_loss = 5.2739
+Batch 60, loss = 309.5614, recon_loss = 304.3174, kl_loss = 5.2439
+Batch 90, loss = 422.6463, recon_loss = 417.3022, kl_loss = 5.3440
+Batch 120, loss = 270.5604, recon_loss = 265.3774, kl_loss = 5.1831
+Batch 150, loss = 378.2076, recon_loss = 372.9706, kl_loss = 5.2370
+Batch 180, loss = 376.7565, recon_loss = 371.6097, kl_loss = 5.1468
+Batch 210, loss = 306.4471, recon_loss = 301.3173, kl_loss = 5.1298
+Batch 240, loss = 493.1260, recon_loss = 487.9635, kl_loss = 5.1625
+Batch 270, loss = 406.5471, recon_loss = 401.4302, kl_loss = 5.1169
+Batch 300, loss = 306.7641, recon_loss = 301.5853, kl_loss = 5.1788
+Batch 330, loss = 448.2430, recon_loss = 443.1928, kl_loss = 5.0502
+Batch 360, loss = 403.5055, recon_loss = 398.3887, kl_loss = 5.1168
+Batch 390, loss = 252.0189, recon_loss = 246.8840, kl_loss = 5.1349
+Batch 420, loss = 341.8498, recon_loss = 336.7223, kl_loss = 5.1275
+Batch 450, loss = 358.3039, recon_loss = 353.2546, kl_loss = 5.0493
+Batch 480, loss = 316.2154, recon_loss = 311.0461, kl_loss = 5.1694
+Average loss: 354.4646
+Epoch: 77
+Batch 30, loss = 334.4409, recon_loss = 329.2996, kl_loss = 5.1414
+Batch 60, loss = 337.1557, recon_loss = 331.9247, kl_loss = 5.2310
+Batch 90, loss = 415.8329, recon_loss = 410.7875, kl_loss = 5.0454
+Batch 120, loss = 419.7571, recon_loss = 414.7068, kl_loss = 5.0503
+Batch 150, loss = 306.2099, recon_loss = 301.0595, kl_loss = 5.1504
+Batch 180, loss = 317.5470, recon_loss = 312.4057, kl_loss = 5.1413
+Batch 210, loss = 284.7649, recon_loss = 279.6301, kl_loss = 5.1348
+Batch 240, loss = 254.6813, recon_loss = 249.6268, kl_loss = 5.0545
+Batch 270, loss = 330.2303, recon_loss = 325.1289, kl_loss = 5.1014
+Batch 300, loss = 314.2498, recon_loss = 309.1750, kl_loss = 5.0748
+Batch 330, loss = 323.2440, recon_loss = 318.1397, kl_loss = 5.1042
+Batch 360, loss = 350.9652, recon_loss = 345.8367, kl_loss = 5.1285
+Batch 390, loss = 347.4056, recon_loss = 342.2652, kl_loss = 5.1403
+Batch 420, loss = 330.1232, recon_loss = 325.0101, kl_loss = 5.1131
+Batch 450, loss = 422.1303, recon_loss = 417.0022, kl_loss = 5.1281
+Batch 480, loss = 308.6376, recon_loss = 303.5351, kl_loss = 5.1025
+Average loss: 340.5018
+Epoch: 78
+Batch 30, loss = 380.2805, recon_loss = 375.1222, kl_loss = 5.1584
+Batch 60, loss = 612.8441, recon_loss = 607.6780, kl_loss = 5.1661
+Batch 90, loss = 349.2974, recon_loss = 344.1144, kl_loss = 5.1830
+Batch 120, loss = 291.9040, recon_loss = 286.7562, kl_loss = 5.1477
+Batch 150, loss = 315.5876, recon_loss = 310.4667, kl_loss = 5.1208
+Batch 180, loss = 314.6382, recon_loss = 309.5356, kl_loss = 5.1026
+Batch 210, loss = 268.6454, recon_loss = 263.6119, kl_loss = 5.0335
+Batch 240, loss = 311.7390, recon_loss = 306.5506, kl_loss = 5.1885
+Batch 270, loss = 298.6316, recon_loss = 293.5786, kl_loss = 5.0530
+Batch 300, loss = 389.7356, recon_loss = 384.5545, kl_loss = 5.1811
+Batch 330, loss = 293.0606, recon_loss = 287.9368, kl_loss = 5.1238
+Batch 360, loss = 370.1306, recon_loss = 364.9134, kl_loss = 5.2172
+Batch 390, loss = 315.6964, recon_loss = 310.5262, kl_loss = 5.1701
+Batch 420, loss = 364.1032, recon_loss = 358.9176, kl_loss = 5.1856
+Batch 450, loss = 280.4732, recon_loss = 275.3380, kl_loss = 5.1352
+Batch 480, loss = 393.2995, recon_loss = 388.1324, kl_loss = 5.1671
+Average loss: 344.1105
+Epoch: 79
+Batch 30, loss = 409.0033, recon_loss = 403.8129, kl_loss = 5.1904
+Batch 60, loss = 319.8610, recon_loss = 314.7458, kl_loss = 5.1152
+Batch 90, loss = 233.8302, recon_loss = 228.7856, kl_loss = 5.0446
+Batch 120, loss = 286.2036, recon_loss = 280.9651, kl_loss = 5.2385
+Batch 150, loss = 258.6098, recon_loss = 253.4707, kl_loss = 5.1391
+Batch 180, loss = 262.0803, recon_loss = 256.9070, kl_loss = 5.1733
+Batch 210, loss = 332.9774, recon_loss = 327.7695, kl_loss = 5.2078
+Batch 240, loss = 359.9545, recon_loss = 354.7498, kl_loss = 5.2047
+Batch 270, loss = 300.4765, recon_loss = 295.1875, kl_loss = 5.2890
+Batch 300, loss = 317.6122, recon_loss = 312.4023, kl_loss = 5.2099
+Batch 330, loss = 310.9486, recon_loss = 305.7735, kl_loss = 5.1751
+Batch 360, loss = 330.7456, recon_loss = 325.5840, kl_loss = 5.1616
+Batch 390, loss = 408.5439, recon_loss = 403.3530, kl_loss = 5.1909
+Batch 420, loss = 410.5837, recon_loss = 405.4430, kl_loss = 5.1407
+Batch 450, loss = 456.2906, recon_loss = 451.0930, kl_loss = 5.1976
+Batch 480, loss = 327.6766, recon_loss = 322.5199, kl_loss = 5.1567
+Average loss: 330.5519
+Epoch: 80
+Batch 30, loss = 393.9911, recon_loss = 388.7181, kl_loss = 5.2731
+Batch 60, loss = 311.1151, recon_loss = 305.8661, kl_loss = 5.2490
+Batch 90, loss = 301.3814, recon_loss = 296.2453, kl_loss = 5.1361
+Batch 120, loss = 403.1038, recon_loss = 397.8761, kl_loss = 5.2278
+Batch 150, loss = 308.4085, recon_loss = 303.3056, kl_loss = 5.1029
+Batch 180, loss = 301.8834, recon_loss = 296.7329, kl_loss = 5.1505
+Batch 210, loss = 219.2977, recon_loss = 214.1808, kl_loss = 5.1169
+Batch 240, loss = 449.7094, recon_loss = 444.4955, kl_loss = 5.2138
+Batch 270, loss = 480.0886, recon_loss = 474.8783, kl_loss = 5.2103
+Batch 300, loss = 308.7136, recon_loss = 303.5550, kl_loss = 5.1586
+Batch 330, loss = 285.0175, recon_loss = 279.8757, kl_loss = 5.1418
+Batch 360, loss = 310.6471, recon_loss = 305.5157, kl_loss = 5.1314
+Batch 390, loss = 301.1407, recon_loss = 296.0483, kl_loss = 5.0923
+Batch 420, loss = 320.3664, recon_loss = 315.2106, kl_loss = 5.1558
+Batch 450, loss = 260.7870, recon_loss = 255.5793, kl_loss = 5.2077
+Batch 480, loss = 418.4554, recon_loss = 413.3119, kl_loss = 5.1436
+Average loss: 346.8284
+Epoch: 81
+Batch 30, loss = 403.9179, recon_loss = 398.7928, kl_loss = 5.1251
+Batch 60, loss = 361.6493, recon_loss = 356.4884, kl_loss = 5.1608
+Batch 90, loss = 387.4308, recon_loss = 382.2283, kl_loss = 5.2025
+Batch 120, loss = 312.9560, recon_loss = 307.7293, kl_loss = 5.2267
+Batch 150, loss = 278.4232, recon_loss = 273.2014, kl_loss = 5.2218
+Batch 180, loss = 221.7278, recon_loss = 216.6422, kl_loss = 5.0856
+Batch 210, loss = 316.2937, recon_loss = 311.1429, kl_loss = 5.1508
+Batch 240, loss = 280.0281, recon_loss = 274.8203, kl_loss = 5.2078
+Batch 270, loss = 268.9355, recon_loss = 263.8807, kl_loss = 5.0547
+Batch 300, loss = 304.6514, recon_loss = 299.5475, kl_loss = 5.1039
+Batch 330, loss = 375.1757, recon_loss = 370.0504, kl_loss = 5.1253
+Batch 360, loss = 443.5980, recon_loss = 438.4637, kl_loss = 5.1343
+Batch 390, loss = 257.4695, recon_loss = 252.4002, kl_loss = 5.0693
+Batch 420, loss = 237.0779, recon_loss = 232.0327, kl_loss = 5.0451
+Batch 450, loss = 370.2614, recon_loss = 365.0212, kl_loss = 5.2402
+Batch 480, loss = 286.7175, recon_loss = 281.5451, kl_loss = 5.1723
+Average loss: 313.0827
+Epoch: 82
+Batch 30, loss = 248.2058, recon_loss = 243.1038, kl_loss = 5.1020
+Batch 60, loss = 326.5484, recon_loss = 321.4520, kl_loss = 5.0964
+Batch 90, loss = 432.5790, recon_loss = 427.3752, kl_loss = 5.2038
+Batch 120, loss = 245.8798, recon_loss = 240.7924, kl_loss = 5.0874
+Batch 150, loss = 189.9779, recon_loss = 184.9282, kl_loss = 5.0497
+Batch 180, loss = 312.0073, recon_loss = 306.8724, kl_loss = 5.1349
+Batch 210, loss = 438.0428, recon_loss = 432.9580, kl_loss = 5.0848
+Batch 240, loss = 308.8345, recon_loss = 303.6769, kl_loss = 5.1576
+Batch 270, loss = 263.8925, recon_loss = 258.6895, kl_loss = 5.2030
+Batch 300, loss = 235.1446, recon_loss = 230.1029, kl_loss = 5.0417
+Batch 330, loss = 373.1656, recon_loss = 367.9327, kl_loss = 5.2329
+Batch 360, loss = 319.0597, recon_loss = 313.8170, kl_loss = 5.2426
+Batch 390, loss = 231.7130, recon_loss = 226.5839, kl_loss = 5.1291
+Batch 420, loss = 348.3889, recon_loss = 343.1646, kl_loss = 5.2243
+Batch 450, loss = 303.7132, recon_loss = 298.5870, kl_loss = 5.1262
+Batch 480, loss = 304.1152, recon_loss = 298.9584, kl_loss = 5.1568
+Average loss: 311.8324
+Epoch: 83
+Batch 30, loss = 249.1542, recon_loss = 244.0885, kl_loss = 5.0657
+Batch 60, loss = 399.3147, recon_loss = 394.2177, kl_loss = 5.0970
+Batch 90, loss = 215.7580, recon_loss = 210.6141, kl_loss = 5.1439
+Batch 120, loss = 308.8189, recon_loss = 303.6194, kl_loss = 5.1996
+Batch 150, loss = 302.2449, recon_loss = 297.0757, kl_loss = 5.1691
+Batch 180, loss = 319.7996, recon_loss = 314.6713, kl_loss = 5.1284
+Batch 210, loss = 303.4619, recon_loss = 298.2862, kl_loss = 5.1757
+Batch 240, loss = 214.2284, recon_loss = 209.1575, kl_loss = 5.0708
+Batch 270, loss = 354.0840, recon_loss = 348.9299, kl_loss = 5.1540
+Batch 300, loss = 285.1422, recon_loss = 279.9395, kl_loss = 5.2027
+Batch 330, loss = 243.0829, recon_loss = 237.9527, kl_loss = 5.1303
+Batch 360, loss = 226.5106, recon_loss = 221.3719, kl_loss = 5.1387
+Batch 390, loss = 278.5773, recon_loss = 273.3965, kl_loss = 5.1808
+Batch 420, loss = 308.2866, recon_loss = 303.0295, kl_loss = 5.2570
+Batch 450, loss = 451.6513, recon_loss = 446.4803, kl_loss = 5.1711
+Batch 480, loss = 383.4801, recon_loss = 378.3163, kl_loss = 5.1637
+Average loss: 296.5914
+Epoch: 84
+Batch 30, loss = 260.2021, recon_loss = 254.9976, kl_loss = 5.2045
+Batch 60, loss = 270.0753, recon_loss = 264.9023, kl_loss = 5.1731
+Batch 90, loss = 287.5336, recon_loss = 282.4144, kl_loss = 5.1192
+Batch 120, loss = 268.1066, recon_loss = 262.9263, kl_loss = 5.1803
+Batch 150, loss = 343.6354, recon_loss = 338.4567, kl_loss = 5.1787
+Batch 180, loss = 290.0190, recon_loss = 284.9073, kl_loss = 5.1117
+Batch 210, loss = 396.2422, recon_loss = 391.0658, kl_loss = 5.1764
+Batch 240, loss = 285.5460, recon_loss = 280.4725, kl_loss = 5.0735
+Batch 270, loss = 259.7413, recon_loss = 254.6369, kl_loss = 5.1043
+Batch 300, loss = 171.2800, recon_loss = 166.1642, kl_loss = 5.1158
+Batch 330, loss = 268.3811, recon_loss = 263.1968, kl_loss = 5.1843
+Batch 360, loss = 329.3544, recon_loss = 324.2487, kl_loss = 5.1058
+Batch 390, loss = 314.2231, recon_loss = 309.0534, kl_loss = 5.1697
+Batch 420, loss = 454.9719, recon_loss = 449.6935, kl_loss = 5.2784
+Batch 450, loss = 315.8062, recon_loss = 310.7223, kl_loss = 5.0839
+Batch 480, loss = 310.3651, recon_loss = 305.2960, kl_loss = 5.0692
+Average loss: 300.5794
+Epoch: 85
+Batch 30, loss = 287.9902, recon_loss = 282.7960, kl_loss = 5.1942
+Batch 60, loss = 257.1533, recon_loss = 251.9965, kl_loss = 5.1568
+Batch 90, loss = 255.9805, recon_loss = 250.8943, kl_loss = 5.0862
+Batch 120, loss = 291.6275, recon_loss = 286.4145, kl_loss = 5.2130
+Batch 150, loss = 241.7268, recon_loss = 236.5523, kl_loss = 5.1745
+Batch 180, loss = 239.4618, recon_loss = 234.3456, kl_loss = 5.1162
+Batch 210, loss = 239.0593, recon_loss = 234.0525, kl_loss = 5.0067
+Batch 240, loss = 261.5045, recon_loss = 256.2912, kl_loss = 5.2133
+Batch 270, loss = 318.2071, recon_loss = 313.0297, kl_loss = 5.1774
+Batch 300, loss = 219.2103, recon_loss = 214.1587, kl_loss = 5.0517
+Batch 330, loss = 381.8502, recon_loss = 376.6929, kl_loss = 5.1572
+Batch 360, loss = 233.4044, recon_loss = 228.2369, kl_loss = 5.1674
+Batch 390, loss = 314.9577, recon_loss = 309.7460, kl_loss = 5.2117
+Batch 420, loss = 234.5863, recon_loss = 229.4105, kl_loss = 5.1758
+Batch 450, loss = 217.6490, recon_loss = 212.6501, kl_loss = 4.9989
+Batch 480, loss = 292.0461, recon_loss = 286.8895, kl_loss = 5.1567
+Average loss: 289.7132
+Epoch: 86
+Batch 30, loss = 330.3039, recon_loss = 325.1880, kl_loss = 5.1160
+Batch 60, loss = 272.0312, recon_loss = 266.9498, kl_loss = 5.0814
+Batch 90, loss = 209.6208, recon_loss = 204.4480, kl_loss = 5.1728
+Batch 120, loss = 413.9416, recon_loss = 408.8760, kl_loss = 5.0656
+Batch 150, loss = 214.9404, recon_loss = 209.8632, kl_loss = 5.0772
+Batch 180, loss = 266.1477, recon_loss = 260.9227, kl_loss = 5.2250
+Batch 210, loss = 235.2261, recon_loss = 230.1437, kl_loss = 5.0824
+Batch 240, loss = 248.2075, recon_loss = 243.1268, kl_loss = 5.0807
+Batch 270, loss = 215.3538, recon_loss = 210.1898, kl_loss = 5.1641
+Batch 300, loss = 386.5761, recon_loss = 381.2895, kl_loss = 5.2866
+Batch 330, loss = 342.4808, recon_loss = 337.2894, kl_loss = 5.1915
+Batch 360, loss = 185.4459, recon_loss = 180.2883, kl_loss = 5.1577
+Batch 390, loss = 270.0096, recon_loss = 264.9847, kl_loss = 5.0249
+Batch 420, loss = 249.3537, recon_loss = 244.2286, kl_loss = 5.1251
+Batch 450, loss = 550.3840, recon_loss = 545.2021, kl_loss = 5.1819
+Batch 480, loss = 393.6958, recon_loss = 388.5405, kl_loss = 5.1553
+Average loss: 299.7160
+Epoch: 87
+Batch 30, loss = 351.1907, recon_loss = 346.0330, kl_loss = 5.1577
+Batch 60, loss = 336.2287, recon_loss = 331.1014, kl_loss = 5.1272
+Batch 90, loss = 332.6003, recon_loss = 327.3782, kl_loss = 5.2221
+Batch 120, loss = 394.3590, recon_loss = 389.1319, kl_loss = 5.2271
+Batch 150, loss = 254.8251, recon_loss = 249.6369, kl_loss = 5.1882
+Batch 180, loss = 363.3976, recon_loss = 358.1342, kl_loss = 5.2635
+Batch 210, loss = 266.7930, recon_loss = 261.6330, kl_loss = 5.1600
+Batch 240, loss = 305.1266, recon_loss = 299.9253, kl_loss = 5.2012
+Batch 270, loss = 364.5670, recon_loss = 359.2363, kl_loss = 5.3307
+Batch 300, loss = 274.8676, recon_loss = 269.6649, kl_loss = 5.2027
+Batch 330, loss = 273.2964, recon_loss = 268.1108, kl_loss = 5.1855
+Batch 360, loss = 400.1772, recon_loss = 394.9959, kl_loss = 5.1813
+Batch 390, loss = 367.9273, recon_loss = 362.7755, kl_loss = 5.1519
+Batch 420, loss = 238.0981, recon_loss = 233.0048, kl_loss = 5.0932
+Batch 450, loss = 219.6880, recon_loss = 214.5137, kl_loss = 5.1743
+Batch 480, loss = 289.4710, recon_loss = 284.2780, kl_loss = 5.1930
+Average loss: 303.0764
+Epoch: 88
+Batch 30, loss = 242.3660, recon_loss = 237.2813, kl_loss = 5.0848
+Batch 60, loss = 347.7197, recon_loss = 342.6976, kl_loss = 5.0221
+Batch 90, loss = 347.1380, recon_loss = 342.0778, kl_loss = 5.0603
+Batch 120, loss = 493.6499, recon_loss = 488.6718, kl_loss = 4.9781
+Batch 150, loss = 649.0950, recon_loss = 644.1215, kl_loss = 4.9735
+Batch 180, loss = 458.5648, recon_loss = 453.4777, kl_loss = 5.0871
+Batch 210, loss = 307.8926, recon_loss = 302.7935, kl_loss = 5.0990
+Batch 240, loss = 297.2449, recon_loss = 292.0347, kl_loss = 5.2102
+Batch 270, loss = 247.0745, recon_loss = 241.9511, kl_loss = 5.1234
+Batch 300, loss = 298.4160, recon_loss = 293.2363, kl_loss = 5.1797
+Batch 330, loss = 260.5592, recon_loss = 255.4146, kl_loss = 5.1446
+Batch 360, loss = 378.7937, recon_loss = 373.5411, kl_loss = 5.2526
+Batch 390, loss = 403.7516, recon_loss = 398.5336, kl_loss = 5.2180
+Batch 420, loss = 378.5371, recon_loss = 373.4481, kl_loss = 5.0891
+Batch 450, loss = 343.8806, recon_loss = 338.6889, kl_loss = 5.1917
+Batch 480, loss = 372.7097, recon_loss = 367.5121, kl_loss = 5.1976
+Average loss: 358.3340
+Epoch: 89
+Batch 30, loss = 359.6790, recon_loss = 354.5800, kl_loss = 5.0990
+Batch 60, loss = 341.9746, recon_loss = 336.7282, kl_loss = 5.2464
+Batch 90, loss = 330.8071, recon_loss = 325.6527, kl_loss = 5.1543
+Batch 120, loss = 292.3938, recon_loss = 287.2747, kl_loss = 5.1191
+Batch 150, loss = 249.3489, recon_loss = 244.3210, kl_loss = 5.0278
+Batch 180, loss = 245.6189, recon_loss = 240.5142, kl_loss = 5.1047
+Batch 210, loss = 254.8201, recon_loss = 249.7441, kl_loss = 5.0760
+Batch 240, loss = 288.3308, recon_loss = 283.1907, kl_loss = 5.1401
+Batch 270, loss = 354.8431, recon_loss = 349.7076, kl_loss = 5.1355
+Batch 300, loss = 231.2898, recon_loss = 226.1369, kl_loss = 5.1529
+Batch 330, loss = 284.2258, recon_loss = 279.0053, kl_loss = 5.2205
+Batch 360, loss = 288.1433, recon_loss = 282.9752, kl_loss = 5.1681
+Batch 390, loss = 255.7573, recon_loss = 250.5969, kl_loss = 5.1604
+Batch 420, loss = 230.4293, recon_loss = 225.2754, kl_loss = 5.1539
+Batch 450, loss = 278.2675, recon_loss = 273.1181, kl_loss = 5.1494
+Batch 480, loss = 369.4381, recon_loss = 364.2012, kl_loss = 5.2369
+Average loss: 312.1826
+Epoch: 90
+Batch 30, loss = 256.6256, recon_loss = 251.4671, kl_loss = 5.1585
+Batch 60, loss = 333.5468, recon_loss = 328.4128, kl_loss = 5.1339
+Batch 90, loss = 397.5694, recon_loss = 392.3797, kl_loss = 5.1897
+Batch 120, loss = 482.3180, recon_loss = 477.0937, kl_loss = 5.2243
+Batch 150, loss = 304.4852, recon_loss = 299.3193, kl_loss = 5.1658
+Batch 180, loss = 346.0105, recon_loss = 340.8437, kl_loss = 5.1668
+Batch 210, loss = 286.4681, recon_loss = 281.3356, kl_loss = 5.1325
+Batch 240, loss = 251.7396, recon_loss = 246.5885, kl_loss = 5.1512
+Batch 270, loss = 295.2579, recon_loss = 290.1054, kl_loss = 5.1526
+Batch 300, loss = 282.8179, recon_loss = 277.7162, kl_loss = 5.1017
+Batch 330, loss = 269.5382, recon_loss = 264.4110, kl_loss = 5.1272
+Batch 360, loss = 204.2685, recon_loss = 199.2233, kl_loss = 5.0452
+Batch 390, loss = 218.9764, recon_loss = 213.8077, kl_loss = 5.1687
+Batch 420, loss = 265.8134, recon_loss = 260.7151, kl_loss = 5.0983
+Batch 450, loss = 228.5576, recon_loss = 223.3639, kl_loss = 5.1937
+Batch 480, loss = 258.0339, recon_loss = 252.8678, kl_loss = 5.1661
+Average loss: 301.7886
+Epoch: 91
+Batch 30, loss = 240.2369, recon_loss = 235.0533, kl_loss = 5.1836
+Batch 60, loss = 209.6461, recon_loss = 204.4740, kl_loss = 5.1720
+Batch 90, loss = 289.4805, recon_loss = 284.2250, kl_loss = 5.2555
+Batch 120, loss = 221.6243, recon_loss = 216.4237, kl_loss = 5.2006
+Batch 150, loss = 310.0693, recon_loss = 304.9164, kl_loss = 5.1528
+Batch 180, loss = 294.4529, recon_loss = 289.3218, kl_loss = 5.1311
+Batch 210, loss = 338.8931, recon_loss = 333.6450, kl_loss = 5.2480
+Batch 240, loss = 506.3332, recon_loss = 501.0797, kl_loss = 5.2535
+Batch 270, loss = 540.8893, recon_loss = 535.6449, kl_loss = 5.2444
+Batch 300, loss = 370.5270, recon_loss = 365.3279, kl_loss = 5.1992
+Batch 330, loss = 303.0440, recon_loss = 297.8734, kl_loss = 5.1707
+Batch 360, loss = 327.7226, recon_loss = 322.4551, kl_loss = 5.2675
+Batch 390, loss = 241.6764, recon_loss = 236.4735, kl_loss = 5.2028
+Batch 420, loss = 184.3536, recon_loss = 179.1752, kl_loss = 5.1783
+Batch 450, loss = 241.5674, recon_loss = 236.2926, kl_loss = 5.2748
+Batch 480, loss = 264.4625, recon_loss = 259.2250, kl_loss = 5.2375
+Average loss: 278.6704
+Epoch: 92
+Batch 30, loss = 322.0321, recon_loss = 316.8592, kl_loss = 5.1729
+Batch 60, loss = 249.2249, recon_loss = 244.1435, kl_loss = 5.0814
+Batch 90, loss = 304.3409, recon_loss = 299.0950, kl_loss = 5.2459
+Batch 120, loss = 256.7879, recon_loss = 251.6617, kl_loss = 5.1262
+Batch 150, loss = 307.0401, recon_loss = 301.9773, kl_loss = 5.0628
+Batch 180, loss = 517.4433, recon_loss = 512.3145, kl_loss = 5.1288
+Batch 210, loss = 226.9752, recon_loss = 221.8173, kl_loss = 5.1579
+Batch 240, loss = 323.1130, recon_loss = 318.0587, kl_loss = 5.0543
+Batch 270, loss = 360.4515, recon_loss = 355.2287, kl_loss = 5.2228
+Batch 300, loss = 550.2958, recon_loss = 545.2031, kl_loss = 5.0927
+Batch 330, loss = 324.2869, recon_loss = 319.1415, kl_loss = 5.1454
+Batch 360, loss = 272.3898, recon_loss = 267.1799, kl_loss = 5.2099
+Batch 390, loss = 393.2106, recon_loss = 388.0256, kl_loss = 5.1850
+Batch 420, loss = 486.4638, recon_loss = 481.3240, kl_loss = 5.1398
+Batch 450, loss = 372.2031, recon_loss = 367.0915, kl_loss = 5.1116
+Batch 480, loss = 238.5607, recon_loss = 233.4171, kl_loss = 5.1436
+Average loss: 331.3888
+Epoch: 93
+Batch 30, loss = 291.8033, recon_loss = 286.7084, kl_loss = 5.0949
+Batch 60, loss = 252.3584, recon_loss = 247.2974, kl_loss = 5.0610
+Batch 90, loss = 284.0559, recon_loss = 278.9026, kl_loss = 5.1533
+Batch 120, loss = 365.7964, recon_loss = 360.7359, kl_loss = 5.0605
+Batch 150, loss = 338.8702, recon_loss = 333.8091, kl_loss = 5.0611
+Batch 180, loss = 385.8245, recon_loss = 380.6986, kl_loss = 5.1259
+Batch 210, loss = 267.4919, recon_loss = 262.3376, kl_loss = 5.1543
+Batch 240, loss = 328.0833, recon_loss = 323.1194, kl_loss = 4.9639
+Batch 270, loss = 332.4763, recon_loss = 327.3878, kl_loss = 5.0886
+Batch 300, loss = 186.1625, recon_loss = 181.0420, kl_loss = 5.1205
+Batch 330, loss = 276.9475, recon_loss = 271.9120, kl_loss = 5.0355
+Batch 360, loss = 320.7800, recon_loss = 315.5815, kl_loss = 5.1984
+Batch 390, loss = 264.7554, recon_loss = 259.5804, kl_loss = 5.1751
+Batch 420, loss = 245.1424, recon_loss = 239.9411, kl_loss = 5.2013
+Batch 450, loss = 269.6610, recon_loss = 264.4532, kl_loss = 5.2077
+Batch 480, loss = 347.0469, recon_loss = 341.8474, kl_loss = 5.1995
+Average loss: 319.8104
+Epoch: 94
+Batch 30, loss = 232.1736, recon_loss = 226.9644, kl_loss = 5.2092
+Batch 60, loss = 221.1211, recon_loss = 215.8987, kl_loss = 5.2223
+Batch 90, loss = 359.2459, recon_loss = 354.1052, kl_loss = 5.1408
+Batch 120, loss = 289.3940, recon_loss = 284.1444, kl_loss = 5.2495
+Batch 150, loss = 351.6224, recon_loss = 346.4343, kl_loss = 5.1882
+Batch 180, loss = 223.2512, recon_loss = 218.0954, kl_loss = 5.1558
+Batch 210, loss = 221.0229, recon_loss = 215.8474, kl_loss = 5.1755
+Batch 240, loss = 280.8641, recon_loss = 275.6742, kl_loss = 5.1899
+Batch 270, loss = 298.8739, recon_loss = 293.7673, kl_loss = 5.1066
+Batch 300, loss = 307.7811, recon_loss = 302.8661, kl_loss = 4.9150
+Batch 330, loss = 472.6428, recon_loss = 467.6823, kl_loss = 4.9605
+Batch 360, loss = 338.8934, recon_loss = 333.8572, kl_loss = 5.0362
+Batch 390, loss = 421.6611, recon_loss = 416.5980, kl_loss = 5.0631
+Batch 420, loss = 311.5705, recon_loss = 306.4597, kl_loss = 5.1108
+Batch 450, loss = 333.0296, recon_loss = 327.9926, kl_loss = 5.0370
+Batch 480, loss = 478.0823, recon_loss = 473.0622, kl_loss = 5.0202
+Average loss: 324.5689
+Epoch: 95
+Batch 30, loss = 550.8264, recon_loss = 545.8528, kl_loss = 4.9735
+Batch 60, loss = 580.8536, recon_loss = 575.7845, kl_loss = 5.0691
+Batch 90, loss = 626.2531, recon_loss = 621.2518, kl_loss = 5.0013
+Batch 120, loss = 617.6071, recon_loss = 612.7160, kl_loss = 4.8911
+Batch 150, loss = 343.4030, recon_loss = 338.2617, kl_loss = 5.1414
+Batch 180, loss = 390.2480, recon_loss = 385.1884, kl_loss = 5.0596
+Batch 210, loss = 336.4956, recon_loss = 331.3135, kl_loss = 5.1821
+Batch 240, loss = 352.9429, recon_loss = 347.8195, kl_loss = 5.1233
+Batch 270, loss = 665.3491, recon_loss = 660.3384, kl_loss = 5.0108
+Batch 300, loss = 344.1107, recon_loss = 339.0187, kl_loss = 5.0920
+Batch 330, loss = 258.0145, recon_loss = 252.9173, kl_loss = 5.0972
+Batch 360, loss = 295.6624, recon_loss = 290.5517, kl_loss = 5.1107
+Batch 390, loss = 396.3061, recon_loss = 391.2209, kl_loss = 5.0852
+Batch 420, loss = 313.7190, recon_loss = 308.5367, kl_loss = 5.1823
+Batch 450, loss = 325.0678, recon_loss = 319.8635, kl_loss = 5.2043
+Batch 480, loss = 365.5282, recon_loss = 360.4074, kl_loss = 5.1208
+Average loss: 404.3821
+Epoch: 96
+Batch 30, loss = 416.3641, recon_loss = 411.1565, kl_loss = 5.2076
+Batch 60, loss = 390.6718, recon_loss = 385.7732, kl_loss = 4.8986
+Batch 90, loss = 433.8561, recon_loss = 428.7472, kl_loss = 5.1089
+Batch 120, loss = 384.6833, recon_loss = 379.6071, kl_loss = 5.0761
+Batch 150, loss = 580.2041, recon_loss = 575.1284, kl_loss = 5.0757
+Batch 180, loss = 531.8195, recon_loss = 526.7964, kl_loss = 5.0230
+Batch 210, loss = 359.5854, recon_loss = 354.4686, kl_loss = 5.1168
+Batch 240, loss = 275.1868, recon_loss = 269.9229, kl_loss = 5.2639
+Batch 270, loss = 319.3093, recon_loss = 314.1892, kl_loss = 5.1201
+Batch 300, loss = 319.9427, recon_loss = 314.6964, kl_loss = 5.2463
+Batch 330, loss = 385.4588, recon_loss = 380.2209, kl_loss = 5.2379
+Batch 360, loss = 350.2285, recon_loss = 345.1072, kl_loss = 5.1213
+Batch 390, loss = 508.3387, recon_loss = 503.3365, kl_loss = 5.0022
+Batch 420, loss = 375.5235, recon_loss = 370.3696, kl_loss = 5.1539
+Batch 450, loss = 452.0764, recon_loss = 446.9416, kl_loss = 5.1348
+Batch 480, loss = 652.7345, recon_loss = 647.6110, kl_loss = 5.1235
+Average loss: 388.5509
+Epoch: 97
+Batch 30, loss = 280.1316, recon_loss = 274.8352, kl_loss = 5.2964
+Batch 60, loss = 282.1428, recon_loss = 276.9632, kl_loss = 5.1795
+Batch 90, loss = 333.9246, recon_loss = 328.8262, kl_loss = 5.0984
+Batch 120, loss = 227.1919, recon_loss = 222.0486, kl_loss = 5.1434
+Batch 150, loss = 343.8417, recon_loss = 338.9221, kl_loss = 4.9196
+Batch 180, loss = 271.8261, recon_loss = 266.6285, kl_loss = 5.1976
+Batch 210, loss = 240.3759, recon_loss = 235.2522, kl_loss = 5.1236
+Batch 240, loss = 367.6156, recon_loss = 362.5401, kl_loss = 5.0755
+Batch 270, loss = 390.4610, recon_loss = 385.2567, kl_loss = 5.2044
+Batch 300, loss = 274.8752, recon_loss = 269.7352, kl_loss = 5.1400
+Batch 330, loss = 247.4611, recon_loss = 242.3080, kl_loss = 5.1531
+Batch 360, loss = 243.0785, recon_loss = 237.8921, kl_loss = 5.1864
+Batch 390, loss = 283.1453, recon_loss = 277.9641, kl_loss = 5.1811
+Batch 420, loss = 171.9779, recon_loss = 166.7768, kl_loss = 5.2011
+Batch 450, loss = 260.7846, recon_loss = 255.5712, kl_loss = 5.2134
+Batch 480, loss = 304.1534, recon_loss = 299.0695, kl_loss = 5.0838
+Average loss: 294.2844
+Epoch: 98
+Batch 30, loss = 251.5930, recon_loss = 246.3582, kl_loss = 5.2347
+Batch 60, loss = 253.2819, recon_loss = 248.1293, kl_loss = 5.1526
+Batch 90, loss = 275.5170, recon_loss = 270.3275, kl_loss = 5.1895
+Batch 120, loss = 307.3318, recon_loss = 302.1271, kl_loss = 5.2048
+Batch 150, loss = 288.8467, recon_loss = 283.6533, kl_loss = 5.1934
+Batch 180, loss = 400.5009, recon_loss = 395.1962, kl_loss = 5.3047
+Batch 210, loss = 233.8132, recon_loss = 228.6331, kl_loss = 5.1802
+Batch 240, loss = 254.5293, recon_loss = 249.2634, kl_loss = 5.2660
+Batch 270, loss = 273.7062, recon_loss = 268.6086, kl_loss = 5.0976
+Batch 300, loss = 194.3652, recon_loss = 189.2276, kl_loss = 5.1377
+Batch 330, loss = 168.4430, recon_loss = 163.3638, kl_loss = 5.0793
+Batch 360, loss = 220.5746, recon_loss = 215.4269, kl_loss = 5.1477
+Batch 390, loss = 324.6711, recon_loss = 319.4684, kl_loss = 5.2027
+Batch 420, loss = 333.3150, recon_loss = 328.1439, kl_loss = 5.1710
+Batch 450, loss = 364.6275, recon_loss = 359.5616, kl_loss = 5.0659
+Batch 480, loss = 286.5089, recon_loss = 281.4063, kl_loss = 5.1026
+Average loss: 297.2239
+Epoch: 99
+Batch 30, loss = 304.6814, recon_loss = 299.6012, kl_loss = 5.0802
+Batch 60, loss = 319.8857, recon_loss = 314.8292, kl_loss = 5.0565
+Batch 90, loss = 303.1074, recon_loss = 297.9305, kl_loss = 5.1769
+Batch 120, loss = 312.7812, recon_loss = 307.6611, kl_loss = 5.1201
+Batch 150, loss = 256.4037, recon_loss = 251.3232, kl_loss = 5.0805
+Batch 180, loss = 293.2499, recon_loss = 288.0938, kl_loss = 5.1561
+Batch 210, loss = 296.2156, recon_loss = 291.0719, kl_loss = 5.1436
+Batch 240, loss = 218.2111, recon_loss = 213.0858, kl_loss = 5.1253
+Batch 270, loss = 204.2002, recon_loss = 199.0534, kl_loss = 5.1468
+Batch 300, loss = 285.8608, recon_loss = 280.7441, kl_loss = 5.1167
+Batch 330, loss = 349.9914, recon_loss = 344.8232, kl_loss = 5.1681
+Batch 360, loss = 283.6758, recon_loss = 278.5482, kl_loss = 5.1275
+Batch 390, loss = 347.1602, recon_loss = 342.0212, kl_loss = 5.1389
+Batch 420, loss = 367.6936, recon_loss = 362.7078, kl_loss = 4.9858
+Batch 450, loss = 327.6070, recon_loss = 322.4110, kl_loss = 5.1960
+Batch 480, loss = 391.3297, recon_loss = 386.1212, kl_loss = 5.2086
+Average loss: 322.4610

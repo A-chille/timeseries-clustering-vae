@@ -7,7 +7,6 @@ from torch.utils.data import DataLoader
 from torch.autograd import Variable
 import os
 
-
 class Encoder(nn.Module):
     """
     Encoder network containing enrolled LSTM/GRU
@@ -322,8 +321,8 @@ class VRAE(BaseEstimator, nn.Module):
             if (t + 1) % self.print_every == 0:
                 print('Batch %d, loss = %.4f, recon_loss = %.4f, kl_loss = %.4f' % (t + 1, loss.item(),
                                                                                     recon_loss.item(), kl_loss.item()))
-
         print('Average loss: {:.4f}'.format(epoch_loss / t))
+        return(epoch_loss / t)
 
 
     def fit(self, dataset, save = False):
@@ -334,20 +333,23 @@ class VRAE(BaseEstimator, nn.Module):
         :param bool save: If true, dumps the trained model parameters as pickle file at `dload` directory
         :return:
         """
+        with open(fr'C:\Users\achfr\timeseries-clustering-vae\model_dir_mm\print.txt', 'w') as file:
+            file.write('')
+        with open(fr'C:\Users\achfr\timeseries-clustering-vae\model_dir_mm\print.txt', 'a') as file:
+            train_loader = DataLoader(dataset = dataset,
+                                    batch_size = self.batch_size,
+                                    shuffle = True,
+                                    drop_last=True)
 
-        train_loader = DataLoader(dataset = dataset,
-                                  batch_size = self.batch_size,
-                                  shuffle = True,
-                                  drop_last=True)
+            for i in range(self.n_epochs):
+                print('Epoch: %s' % i)
 
-        for i in range(self.n_epochs):
-            print('Epoch: %s' % i)
+                epoch_loss = self._train(train_loader)
+                file.write('Average loss: {:.4f}\n'.format(epoch_loss))
 
-            self._train(train_loader)
-
-        self.is_fitted = True
-        if save:
-            self.save('model.pth')
+            self.is_fitted = True
+            if save:
+                self.save('model.pth')
 
 
     def _batch_transform(self, x):
