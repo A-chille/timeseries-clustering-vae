@@ -171,10 +171,9 @@ class VRAE(BaseEstimator, nn.Module):
     def __init__(self, sequence_length, number_of_features, hidden_size=90, hidden_layer_depth=2, latent_length=20,
                  batch_size=32, learning_rate=0.005, block='LSTM',
                  n_epochs=5, dropout_rate=0., optimizer='Adam', loss='MSELoss',
-                 cuda=False, print_every=100, clip=True, max_grad_norm=5, dload='.'):
+                 cuda=True, print_every=100, clip=True, max_grad_norm=5, dload='.'):
 
         super(VRAE, self).__init__()
-
 
         self.dtype = torch.FloatTensor
         self.use_cuda = cuda
@@ -325,7 +324,7 @@ class VRAE(BaseEstimator, nn.Module):
         return(epoch_loss / t)
 
 
-    def fit(self, dataset, save = False):
+    def fit(self, dataset, test_dataset, save = False):
         """
         Calls `_train` function over a fixed number of epochs, specified by `n_epochs`
 
@@ -340,12 +339,28 @@ class VRAE(BaseEstimator, nn.Module):
                                     batch_size = self.batch_size,
                                     shuffle = True,
                                     drop_last=True)
+            
+            test_loader = DataLoader(dataset = test_dataset, 
+                                     batch_size=self.batch_size, 
+                                     shuffle=True, 
+                                     drop_last=True)
 
             for i in range(self.n_epochs):
                 print('Epoch: %s' % i)
-
                 epoch_loss = self._train(train_loader)
-                file.write('Average loss: {:.4f}\n'.format(epoch_loss))
+
+                self.eval()
+                total_loss,num_batches = 0,0
+                for batch in test_loader:
+                    testseq = batch[0].float()
+                    testseq2 = testseq.permute(1, 0, 2).cuda()
+                    outp = self.forward(testseq2) # Forward pass
+                    batch_loss = self.loss_fn(testseq2, outp[0])# Compute the loss for the current batch
+                    total_loss += batch_loss.item()# Accumulate the total loss
+                    num_batches += 1
+                mean_test_loss = total_loss / num_batches
+
+                file.write('Average loss: {:.4f} {:.4f}\n'.format(epoch_loss,mean_test_loss))
 
             self.is_fitted = True
             if save:
