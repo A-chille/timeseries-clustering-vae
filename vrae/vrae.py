@@ -219,6 +219,8 @@ class VRAE(BaseEstimator, nn.Module):
         self.is_fitted = False
         self.dload = dload
 
+        self.best_test_loss = np.inf
+
         if self.use_cuda:
             self.cuda()
 
@@ -361,6 +363,11 @@ class VRAE(BaseEstimator, nn.Module):
                 mean_test_loss = total_loss / num_batches
 
                 file.write('Average loss: {:.4f} {:.4f}\n'.format(epoch_loss,mean_test_loss))
+
+                if mean_test_loss < self.best_test_loss:
+                    self.best_test_loss = mean_test_loss
+                    if save:
+                        self.save('model_best.pth')  # Save the model if the test loss is the best so far
 
             self.is_fitted = True
             if save:
