@@ -23,15 +23,15 @@ for replicate in [0]:
 
     number_of_features = 1
     dload = './model_dir_mm' #download directory
-    hidden_size = 90
-    hidden_layer_depth = 5
-    batch_size = 10
-    learning_rate = 0.005 # 0.0005
+    hidden_size = 264
+    hidden_layer_depth = 6
+    batch_size = 200
+    learning_rate = 0.0005 # 0.0005
     n_epochs = 400
     dropout_rate = 0.2
     optimizer = 'Adam' # options: ADAM, SGD
     cuda = True # options: True, False
-    print_every=100
+    print_every=1000
     clip = True # options: True, False
     max_grad_norm=5
     loss = 'MSELoss' # options: SmoothL1Loss, MSELoss
