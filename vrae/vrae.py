@@ -169,7 +169,7 @@ class VRAE(BaseEstimator, nn.Module):
     :param dload: Download directory where models are to be dumped
     """
     def __init__(self, sequence_length, number_of_features, hidden_size=90, hidden_layer_depth=2, latent_length=20,
-                 batch_size=32, learning_rate=0.005, block='LSTM',
+                 batch_size=32, learning_rate=0.005, block='LSTM', beta=1.0,
                  n_epochs=5, dropout_rate=0., optimizer='Adam', loss='MSELoss',
                  cuda=True, print_every=100, clip=True, max_grad_norm=5, dload='.'):
 
@@ -220,6 +220,7 @@ class VRAE(BaseEstimator, nn.Module):
         self.dload = dload
 
         self.best_test_loss = np.inf
+        self.beta = beta
 
         if self.use_cuda:
             self.cuda()
@@ -232,9 +233,9 @@ class VRAE(BaseEstimator, nn.Module):
             raise ValueError('Not a recognized optimizer')
 
         if loss == 'SmoothL1Loss':
-            self.loss_fn = nn.SmoothL1Loss(size_average=False)
+            self.loss_fn = nn.SmoothL1Loss(reduction='sum')
         elif loss == 'MSELoss':
-            self.loss_fn = nn.MSELoss(size_average=False)
+            self.loss_fn = nn.MSELoss(reduction='sum')
 
     def __repr__(self):
         return """VRAE(n_epochs={n_epochs},batch_size={batch_size},cuda={cuda})""".format(
@@ -269,7 +270,7 @@ class VRAE(BaseEstimator, nn.Module):
         kl_loss = -0.5 * torch.mean(1 + latent_logvar - latent_mean.pow(2) - latent_logvar.exp())
         recon_loss = loss_fn(x_decoded, x)
 
-        return kl_loss + recon_loss, recon_loss, kl_loss
+        return self.beta * kl_loss + recon_loss, recon_loss, kl_loss
 
     def compute_loss(self, X):
         """
