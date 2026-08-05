@@ -1,1 +1,1 @@
-Average loss: 506.7067 360.9610
+Average loss: 499.1691 407.6499
